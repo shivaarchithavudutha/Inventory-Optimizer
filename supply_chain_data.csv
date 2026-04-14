@@ -1,0 +1,1826 @@
+Date,Product,Units_Sold,Unit_Cost,Holding_Cost_Per_Unit,Lead_Time_Days,Ordering_Cost
+2025-01-01,Premium Detergent,21,15,1.5,5,100
+2025-01-02,Premium Detergent,34,15,1.5,5,100
+2025-01-03,Premium Detergent,43,15,1.5,5,100
+2025-01-04,Premium Detergent,37,15,1.5,5,100
+2025-01-05,Premium Detergent,32,15,1.5,5,100
+2025-01-06,Premium Detergent,22,15,1.5,5,100
+2025-01-07,Premium Detergent,43,15,1.5,5,100
+2025-01-08,Premium Detergent,35,15,1.5,5,100
+2025-01-09,Premium Detergent,21,15,1.5,5,100
+2025-01-10,Premium Detergent,40,15,1.5,5,100
+2025-01-11,Premium Detergent,42,15,1.5,5,100
+2025-01-12,Premium Detergent,48,15,1.5,5,100
+2025-01-13,Premium Detergent,25,15,1.5,5,100
+2025-01-14,Premium Detergent,25,15,1.5,5,100
+2025-01-15,Premium Detergent,38,15,1.5,5,100
+2025-01-16,Premium Detergent,35,15,1.5,5,100
+2025-01-17,Premium Detergent,18,15,1.5,5,100
+2025-01-18,Premium Detergent,28,15,1.5,5,100
+2025-01-19,Premium Detergent,49,15,1.5,5,100
+2025-01-20,Premium Detergent,17,15,1.5,5,100
+2025-01-21,Premium Detergent,36,15,1.5,5,100
+2025-01-22,Premium Detergent,35,15,1.5,5,100
+2025-01-23,Premium Detergent,16,15,1.5,5,100
+2025-01-24,Premium Detergent,38,15,1.5,5,100
+2025-01-25,Premium Detergent,33,15,1.5,5,100
+2025-01-26,Premium Detergent,57,15,1.5,5,100
+2025-01-27,Premium Detergent,20,15,1.5,5,100
+2025-01-28,Premium Detergent,16,15,1.5,5,100
+2025-01-29,Premium Detergent,42,15,1.5,5,100
+2025-01-30,Premium Detergent,35,15,1.5,5,100
+2025-01-31,Premium Detergent,15,15,1.5,5,100
+2025-02-01,Premium Detergent,33,15,1.5,5,100
+2025-02-02,Premium Detergent,52,15,1.5,5,100
+2025-02-03,Premium Detergent,36,15,1.5,5,100
+2025-02-04,Premium Detergent,43,15,1.5,5,100
+2025-02-05,Premium Detergent,26,15,1.5,5,100
+2025-02-06,Premium Detergent,39,15,1.5,5,100
+2025-02-07,Premium Detergent,31,15,1.5,5,100
+2025-02-08,Premium Detergent,53,15,1.5,5,100
+2025-02-09,Premium Detergent,53,15,1.5,5,100
+2025-02-10,Premium Detergent,24,15,1.5,5,100
+2025-02-11,Premium Detergent,42,15,1.5,5,100
+2025-02-12,Premium Detergent,42,15,1.5,5,100
+2025-02-13,Premium Detergent,30,15,1.5,5,100
+2025-02-14,Premium Detergent,29,15,1.5,5,100
+2025-02-15,Premium Detergent,57,15,1.5,5,100
+2025-02-16,Premium Detergent,57,15,1.5,5,100
+2025-02-17,Premium Detergent,29,15,1.5,5,100
+2025-02-18,Premium Detergent,44,15,1.5,5,100
+2025-02-19,Premium Detergent,33,15,1.5,5,100
+2025-02-20,Premium Detergent,26,15,1.5,5,100
+2025-02-21,Premium Detergent,37,15,1.5,5,100
+2025-02-22,Premium Detergent,44,15,1.5,5,100
+2025-02-23,Premium Detergent,50,15,1.5,5,100
+2025-02-24,Premium Detergent,17,15,1.5,5,100
+2025-02-25,Premium Detergent,19,15,1.5,5,100
+2025-02-26,Premium Detergent,33,15,1.5,5,100
+2025-02-27,Premium Detergent,21,15,1.5,5,100
+2025-02-28,Premium Detergent,35,15,1.5,5,100
+2025-03-01,Premium Detergent,29,15,1.5,5,100
+2025-03-02,Premium Detergent,27,15,1.5,5,100
+2025-03-03,Premium Detergent,32,15,1.5,5,100
+2025-03-04,Premium Detergent,18,15,1.5,5,100
+2025-03-05,Premium Detergent,39,15,1.5,5,100
+2025-03-06,Premium Detergent,42,15,1.5,5,100
+2025-03-07,Premium Detergent,28,15,1.5,5,100
+2025-03-08,Premium Detergent,41,15,1.5,5,100
+2025-03-09,Premium Detergent,52,15,1.5,5,100
+2025-03-10,Premium Detergent,23,15,1.5,5,100
+2025-03-11,Premium Detergent,40,15,1.5,5,100
+2025-03-12,Premium Detergent,35,15,1.5,5,100
+2025-03-13,Premium Detergent,16,15,1.5,5,100
+2025-03-14,Premium Detergent,34,15,1.5,5,100
+2025-03-15,Premium Detergent,54,15,1.5,5,100
+2025-03-16,Premium Detergent,37,15,1.5,5,100
+2025-03-17,Premium Detergent,42,15,1.5,5,100
+2025-03-18,Premium Detergent,21,15,1.5,5,100
+2025-03-19,Premium Detergent,26,15,1.5,5,100
+2025-03-20,Premium Detergent,43,15,1.5,5,100
+2025-03-21,Premium Detergent,22,15,1.5,5,100
+2025-03-22,Premium Detergent,37,15,1.5,5,100
+2025-03-23,Premium Detergent,22,15,1.5,5,100
+2025-03-24,Premium Detergent,28,15,1.5,5,100
+2025-03-25,Premium Detergent,31,15,1.5,5,100
+2025-03-26,Premium Detergent,18,15,1.5,5,100
+2025-03-27,Premium Detergent,32,15,1.5,5,100
+2025-03-28,Premium Detergent,22,15,1.5,5,100
+2025-03-29,Premium Detergent,23,15,1.5,5,100
+2025-03-30,Premium Detergent,20,15,1.5,5,100
+2025-03-31,Premium Detergent,44,15,1.5,5,100
+2025-04-01,Premium Detergent,20,15,1.5,5,100
+2025-04-02,Premium Detergent,36,15,1.5,5,100
+2025-04-03,Premium Detergent,24,15,1.5,5,100
+2025-04-04,Premium Detergent,18,15,1.5,5,100
+2025-04-05,Premium Detergent,46,15,1.5,5,100
+2025-04-06,Premium Detergent,55,15,1.5,5,100
+2025-04-07,Premium Detergent,32,15,1.5,5,100
+2025-04-08,Premium Detergent,40,15,1.5,5,100
+2025-04-09,Premium Detergent,26,15,1.5,5,100
+2025-04-10,Premium Detergent,16,15,1.5,5,100
+2025-04-11,Premium Detergent,24,15,1.5,5,100
+2025-04-12,Premium Detergent,57,15,1.5,5,100
+2025-04-13,Premium Detergent,23,15,1.5,5,100
+2025-04-14,Premium Detergent,28,15,1.5,5,100
+2025-04-15,Premium Detergent,30,15,1.5,5,100
+2025-04-16,Premium Detergent,29,15,1.5,5,100
+2025-04-17,Premium Detergent,22,15,1.5,5,100
+2025-04-18,Premium Detergent,28,15,1.5,5,100
+2025-04-19,Premium Detergent,48,15,1.5,5,100
+2025-04-20,Premium Detergent,54,15,1.5,5,100
+2025-04-21,Premium Detergent,39,15,1.5,5,100
+2025-04-22,Premium Detergent,44,15,1.5,5,100
+2025-04-23,Premium Detergent,22,15,1.5,5,100
+2025-04-24,Premium Detergent,35,15,1.5,5,100
+2025-04-25,Premium Detergent,30,15,1.5,5,100
+2025-04-26,Premium Detergent,35,15,1.5,5,100
+2025-04-27,Premium Detergent,41,15,1.5,5,100
+2025-04-28,Premium Detergent,29,15,1.5,5,100
+2025-04-29,Premium Detergent,35,15,1.5,5,100
+2025-04-30,Premium Detergent,38,15,1.5,5,100
+2025-05-01,Premium Detergent,40,15,1.5,5,100
+2025-05-02,Premium Detergent,39,15,1.5,5,100
+2025-05-03,Premium Detergent,54,15,1.5,5,100
+2025-05-04,Premium Detergent,54,15,1.5,5,100
+2025-05-05,Premium Detergent,42,15,1.5,5,100
+2025-05-06,Premium Detergent,27,15,1.5,5,100
+2025-05-07,Premium Detergent,23,15,1.5,5,100
+2025-05-08,Premium Detergent,43,15,1.5,5,100
+2025-05-09,Premium Detergent,29,15,1.5,5,100
+2025-05-10,Premium Detergent,35,15,1.5,5,100
+2025-05-11,Premium Detergent,19,15,1.5,5,100
+2025-05-12,Premium Detergent,39,15,1.5,5,100
+2025-05-13,Premium Detergent,21,15,1.5,5,100
+2025-05-14,Premium Detergent,23,15,1.5,5,100
+2025-05-15,Premium Detergent,38,15,1.5,5,100
+2025-05-16,Premium Detergent,15,15,1.5,5,100
+2025-05-17,Premium Detergent,33,15,1.5,5,100
+2025-05-18,Premium Detergent,28,15,1.5,5,100
+2025-05-19,Premium Detergent,38,15,1.5,5,100
+2025-05-20,Premium Detergent,25,15,1.5,5,100
+2025-05-21,Premium Detergent,33,15,1.5,5,100
+2025-05-22,Premium Detergent,31,15,1.5,5,100
+2025-05-23,Premium Detergent,22,15,1.5,5,100
+2025-05-24,Premium Detergent,22,15,1.5,5,100
+2025-05-25,Premium Detergent,22,15,1.5,5,100
+2025-05-26,Premium Detergent,15,15,1.5,5,100
+2025-05-27,Premium Detergent,41,15,1.5,5,100
+2025-05-28,Premium Detergent,19,15,1.5,5,100
+2025-05-29,Premium Detergent,24,15,1.5,5,100
+2025-05-30,Premium Detergent,21,15,1.5,5,100
+2025-05-31,Premium Detergent,52,15,1.5,5,100
+2025-06-01,Premium Detergent,29,15,1.5,5,100
+2025-06-02,Premium Detergent,42,15,1.5,5,100
+2025-06-03,Premium Detergent,21,15,1.5,5,100
+2025-06-04,Premium Detergent,23,15,1.5,5,100
+2025-06-05,Premium Detergent,22,15,1.5,5,100
+2025-06-06,Premium Detergent,26,15,1.5,5,100
+2025-06-07,Premium Detergent,20,15,1.5,5,100
+2025-06-08,Premium Detergent,19,15,1.5,5,100
+2025-06-09,Premium Detergent,30,15,1.5,5,100
+2025-06-10,Premium Detergent,37,15,1.5,5,100
+2025-06-11,Premium Detergent,37,15,1.5,5,100
+2025-06-12,Premium Detergent,44,15,1.5,5,100
+2025-06-13,Premium Detergent,38,15,1.5,5,100
+2025-06-14,Premium Detergent,24,15,1.5,5,100
+2025-06-15,Premium Detergent,22,15,1.5,5,100
+2025-06-16,Premium Detergent,26,15,1.5,5,100
+2025-06-17,Premium Detergent,22,15,1.5,5,100
+2025-06-18,Premium Detergent,36,15,1.5,5,100
+2025-06-19,Premium Detergent,41,15,1.5,5,100
+2025-06-20,Premium Detergent,17,15,1.5,5,100
+2025-06-21,Premium Detergent,19,15,1.5,5,100
+2025-06-22,Premium Detergent,22,15,1.5,5,100
+2025-06-23,Premium Detergent,19,15,1.5,5,100
+2025-06-24,Premium Detergent,29,15,1.5,5,100
+2025-06-25,Premium Detergent,28,15,1.5,5,100
+2025-06-26,Premium Detergent,17,15,1.5,5,100
+2025-06-27,Premium Detergent,15,15,1.5,5,100
+2025-06-28,Premium Detergent,24,15,1.5,5,100
+2025-06-29,Premium Detergent,52,15,1.5,5,100
+2025-06-30,Premium Detergent,37,15,1.5,5,100
+2025-07-01,Premium Detergent,28,15,1.5,5,100
+2025-07-02,Premium Detergent,21,15,1.5,5,100
+2025-07-03,Premium Detergent,41,15,1.5,5,100
+2025-07-04,Premium Detergent,23,15,1.5,5,100
+2025-07-05,Premium Detergent,37,15,1.5,5,100
+2025-07-06,Premium Detergent,37,15,1.5,5,100
+2025-07-07,Premium Detergent,40,15,1.5,5,100
+2025-07-08,Premium Detergent,24,15,1.5,5,100
+2025-07-09,Premium Detergent,42,15,1.5,5,100
+2025-07-10,Premium Detergent,27,15,1.5,5,100
+2025-07-11,Premium Detergent,33,15,1.5,5,100
+2025-07-12,Premium Detergent,27,15,1.5,5,100
+2025-07-13,Premium Detergent,40,15,1.5,5,100
+2025-07-14,Premium Detergent,34,15,1.5,5,100
+2025-07-15,Premium Detergent,43,15,1.5,5,100
+2025-07-16,Premium Detergent,18,15,1.5,5,100
+2025-07-17,Premium Detergent,44,15,1.5,5,100
+2025-07-18,Premium Detergent,19,15,1.5,5,100
+2025-07-19,Premium Detergent,48,15,1.5,5,100
+2025-07-20,Premium Detergent,27,15,1.5,5,100
+2025-07-21,Premium Detergent,27,15,1.5,5,100
+2025-07-22,Premium Detergent,29,15,1.5,5,100
+2025-07-23,Premium Detergent,25,15,1.5,5,100
+2025-07-24,Premium Detergent,43,15,1.5,5,100
+2025-07-25,Premium Detergent,18,15,1.5,5,100
+2025-07-26,Premium Detergent,35,15,1.5,5,100
+2025-07-27,Premium Detergent,27,15,1.5,5,100
+2025-07-28,Premium Detergent,41,15,1.5,5,100
+2025-07-29,Premium Detergent,33,15,1.5,5,100
+2025-07-30,Premium Detergent,36,15,1.5,5,100
+2025-07-31,Premium Detergent,42,15,1.5,5,100
+2025-08-01,Premium Detergent,16,15,1.5,5,100
+2025-08-02,Premium Detergent,31,15,1.5,5,100
+2025-08-03,Premium Detergent,35,15,1.5,5,100
+2025-08-04,Premium Detergent,44,15,1.5,5,100
+2025-08-05,Premium Detergent,39,15,1.5,5,100
+2025-08-06,Premium Detergent,35,15,1.5,5,100
+2025-08-07,Premium Detergent,20,15,1.5,5,100
+2025-08-08,Premium Detergent,42,15,1.5,5,100
+2025-08-09,Premium Detergent,54,15,1.5,5,100
+2025-08-10,Premium Detergent,33,15,1.5,5,100
+2025-08-11,Premium Detergent,26,15,1.5,5,100
+2025-08-12,Premium Detergent,34,15,1.5,5,100
+2025-08-13,Premium Detergent,44,15,1.5,5,100
+2025-08-14,Premium Detergent,44,15,1.5,5,100
+2025-08-15,Premium Detergent,25,15,1.5,5,100
+2025-08-16,Premium Detergent,52,15,1.5,5,100
+2025-08-17,Premium Detergent,48,15,1.5,5,100
+2025-08-18,Premium Detergent,42,15,1.5,5,100
+2025-08-19,Premium Detergent,39,15,1.5,5,100
+2025-08-20,Premium Detergent,21,15,1.5,5,100
+2025-08-21,Premium Detergent,44,15,1.5,5,100
+2025-08-22,Premium Detergent,15,15,1.5,5,100
+2025-08-23,Premium Detergent,19,15,1.5,5,100
+2025-08-24,Premium Detergent,50,15,1.5,5,100
+2025-08-25,Premium Detergent,41,15,1.5,5,100
+2025-08-26,Premium Detergent,44,15,1.5,5,100
+2025-08-27,Premium Detergent,39,15,1.5,5,100
+2025-08-28,Premium Detergent,34,15,1.5,5,100
+2025-08-29,Premium Detergent,27,15,1.5,5,100
+2025-08-30,Premium Detergent,29,15,1.5,5,100
+2025-08-31,Premium Detergent,22,15,1.5,5,100
+2025-09-01,Premium Detergent,21,15,1.5,5,100
+2025-09-02,Premium Detergent,20,15,1.5,5,100
+2025-09-03,Premium Detergent,22,15,1.5,5,100
+2025-09-04,Premium Detergent,41,15,1.5,5,100
+2025-09-05,Premium Detergent,23,15,1.5,5,100
+2025-09-06,Premium Detergent,57,15,1.5,5,100
+2025-09-07,Premium Detergent,24,15,1.5,5,100
+2025-09-08,Premium Detergent,15,15,1.5,5,100
+2025-09-09,Premium Detergent,33,15,1.5,5,100
+2025-09-10,Premium Detergent,24,15,1.5,5,100
+2025-09-11,Premium Detergent,26,15,1.5,5,100
+2025-09-12,Premium Detergent,38,15,1.5,5,100
+2025-09-13,Premium Detergent,37,15,1.5,5,100
+2025-09-14,Premium Detergent,53,15,1.5,5,100
+2025-09-15,Premium Detergent,36,15,1.5,5,100
+2025-09-16,Premium Detergent,38,15,1.5,5,100
+2025-09-17,Premium Detergent,23,15,1.5,5,100
+2025-09-18,Premium Detergent,34,15,1.5,5,100
+2025-09-19,Premium Detergent,31,15,1.5,5,100
+2025-09-20,Premium Detergent,57,15,1.5,5,100
+2025-09-21,Premium Detergent,40,15,1.5,5,100
+2025-09-22,Premium Detergent,40,15,1.5,5,100
+2025-09-23,Premium Detergent,34,15,1.5,5,100
+2025-09-24,Premium Detergent,26,15,1.5,5,100
+2025-09-25,Premium Detergent,44,15,1.5,5,100
+2025-09-26,Premium Detergent,21,15,1.5,5,100
+2025-09-27,Premium Detergent,20,15,1.5,5,100
+2025-09-28,Premium Detergent,22,15,1.5,5,100
+2025-09-29,Premium Detergent,31,15,1.5,5,100
+2025-09-30,Premium Detergent,19,15,1.5,5,100
+2025-10-01,Premium Detergent,31,15,1.5,5,100
+2025-10-02,Premium Detergent,38,15,1.5,5,100
+2025-10-03,Premium Detergent,31,15,1.5,5,100
+2025-10-04,Premium Detergent,53,15,1.5,5,100
+2025-10-05,Premium Detergent,40,15,1.5,5,100
+2025-10-06,Premium Detergent,16,15,1.5,5,100
+2025-10-07,Premium Detergent,16,15,1.5,5,100
+2025-10-08,Premium Detergent,42,15,1.5,5,100
+2025-10-09,Premium Detergent,36,15,1.5,5,100
+2025-10-10,Premium Detergent,37,15,1.5,5,100
+2025-10-11,Premium Detergent,24,15,1.5,5,100
+2025-10-12,Premium Detergent,19,15,1.5,5,100
+2025-10-13,Premium Detergent,15,15,1.5,5,100
+2025-10-14,Premium Detergent,33,15,1.5,5,100
+2025-10-15,Premium Detergent,44,15,1.5,5,100
+2025-10-16,Premium Detergent,16,15,1.5,5,100
+2025-10-17,Premium Detergent,35,15,1.5,5,100
+2025-10-18,Premium Detergent,33,15,1.5,5,100
+2025-10-19,Premium Detergent,52,15,1.5,5,100
+2025-10-20,Premium Detergent,20,15,1.5,5,100
+2025-10-21,Premium Detergent,37,15,1.5,5,100
+2025-10-22,Premium Detergent,18,15,1.5,5,100
+2025-10-23,Premium Detergent,37,15,1.5,5,100
+2025-10-24,Premium Detergent,25,15,1.5,5,100
+2025-10-25,Premium Detergent,49,15,1.5,5,100
+2025-10-26,Premium Detergent,53,15,1.5,5,100
+2025-10-27,Premium Detergent,31,15,1.5,5,100
+2025-10-28,Premium Detergent,20,15,1.5,5,100
+2025-10-29,Premium Detergent,38,15,1.5,5,100
+2025-10-30,Premium Detergent,19,15,1.5,5,100
+2025-10-31,Premium Detergent,34,15,1.5,5,100
+2025-11-01,Premium Detergent,20,15,1.5,5,100
+2025-11-02,Premium Detergent,26,15,1.5,5,100
+2025-11-03,Premium Detergent,36,15,1.5,5,100
+2025-11-04,Premium Detergent,25,15,1.5,5,100
+2025-11-05,Premium Detergent,30,15,1.5,5,100
+2025-11-06,Premium Detergent,30,15,1.5,5,100
+2025-11-07,Premium Detergent,15,15,1.5,5,100
+2025-11-08,Premium Detergent,29,15,1.5,5,100
+2025-11-09,Premium Detergent,54,15,1.5,5,100
+2025-11-10,Premium Detergent,41,15,1.5,5,100
+2025-11-11,Premium Detergent,20,15,1.5,5,100
+2025-11-12,Premium Detergent,30,15,1.5,5,100
+2025-11-13,Premium Detergent,43,15,1.5,5,100
+2025-11-14,Premium Detergent,17,15,1.5,5,100
+2025-11-15,Premium Detergent,44,15,1.5,5,100
+2025-11-16,Premium Detergent,54,15,1.5,5,100
+2025-11-17,Premium Detergent,41,15,1.5,5,100
+2025-11-18,Premium Detergent,18,15,1.5,5,100
+2025-11-19,Premium Detergent,33,15,1.5,5,100
+2025-11-20,Premium Detergent,40,15,1.5,5,100
+2025-11-21,Premium Detergent,17,15,1.5,5,100
+2025-11-22,Premium Detergent,42,15,1.5,5,100
+2025-11-23,Premium Detergent,44,15,1.5,5,100
+2025-11-24,Premium Detergent,21,15,1.5,5,100
+2025-11-25,Premium Detergent,34,15,1.5,5,100
+2025-11-26,Premium Detergent,23,15,1.5,5,100
+2025-11-27,Premium Detergent,15,15,1.5,5,100
+2025-11-28,Premium Detergent,22,15,1.5,5,100
+2025-11-29,Premium Detergent,27,15,1.5,5,100
+2025-11-30,Premium Detergent,41,15,1.5,5,100
+2025-12-01,Premium Detergent,22,15,1.5,5,100
+2025-12-02,Premium Detergent,15,15,1.5,5,100
+2025-12-03,Premium Detergent,25,15,1.5,5,100
+2025-12-04,Premium Detergent,42,15,1.5,5,100
+2025-12-05,Premium Detergent,39,15,1.5,5,100
+2025-12-06,Premium Detergent,50,15,1.5,5,100
+2025-12-07,Premium Detergent,41,15,1.5,5,100
+2025-12-08,Premium Detergent,37,15,1.5,5,100
+2025-12-09,Premium Detergent,44,15,1.5,5,100
+2025-12-10,Premium Detergent,24,15,1.5,5,100
+2025-12-11,Premium Detergent,17,15,1.5,5,100
+2025-12-12,Premium Detergent,21,15,1.5,5,100
+2025-12-13,Premium Detergent,54,15,1.5,5,100
+2025-12-14,Premium Detergent,39,15,1.5,5,100
+2025-12-15,Premium Detergent,40,15,1.5,5,100
+2025-12-16,Premium Detergent,30,15,1.5,5,100
+2025-12-17,Premium Detergent,39,15,1.5,5,100
+2025-12-18,Premium Detergent,34,15,1.5,5,100
+2025-12-19,Premium Detergent,42,15,1.5,5,100
+2025-12-20,Premium Detergent,40,15,1.5,5,100
+2025-12-21,Premium Detergent,20,15,1.5,5,100
+2025-12-22,Premium Detergent,15,15,1.5,5,100
+2025-12-23,Premium Detergent,30,15,1.5,5,100
+2025-12-24,Premium Detergent,44,15,1.5,5,100
+2025-12-25,Premium Detergent,26,15,1.5,5,100
+2025-12-26,Premium Detergent,19,15,1.5,5,100
+2025-12-27,Premium Detergent,24,15,1.5,5,100
+2025-12-28,Premium Detergent,53,15,1.5,5,100
+2025-12-29,Premium Detergent,37,15,1.5,5,100
+2025-12-30,Premium Detergent,23,15,1.5,5,100
+2025-12-31,Premium Detergent,23,15,1.5,5,100
+2025-01-01,Personal Grooming Kit,17,25,2.5,7,100
+2025-01-02,Personal Grooming Kit,33,25,2.5,7,100
+2025-01-03,Personal Grooming Kit,30,25,2.5,7,100
+2025-01-04,Personal Grooming Kit,39,25,2.5,7,100
+2025-01-05,Personal Grooming Kit,22,25,2.5,7,100
+2025-01-06,Personal Grooming Kit,34,25,2.5,7,100
+2025-01-07,Personal Grooming Kit,38,25,2.5,7,100
+2025-01-08,Personal Grooming Kit,36,25,2.5,7,100
+2025-01-09,Personal Grooming Kit,38,25,2.5,7,100
+2025-01-10,Personal Grooming Kit,15,25,2.5,7,100
+2025-01-11,Personal Grooming Kit,49,25,2.5,7,100
+2025-01-12,Personal Grooming Kit,44,25,2.5,7,100
+2025-01-13,Personal Grooming Kit,25,25,2.5,7,100
+2025-01-14,Personal Grooming Kit,31,25,2.5,7,100
+2025-01-15,Personal Grooming Kit,22,25,2.5,7,100
+2025-01-16,Personal Grooming Kit,18,25,2.5,7,100
+2025-01-17,Personal Grooming Kit,20,25,2.5,7,100
+2025-01-18,Personal Grooming Kit,28,25,2.5,7,100
+2025-01-19,Personal Grooming Kit,44,25,2.5,7,100
+2025-01-20,Personal Grooming Kit,44,25,2.5,7,100
+2025-01-21,Personal Grooming Kit,17,25,2.5,7,100
+2025-01-22,Personal Grooming Kit,30,25,2.5,7,100
+2025-01-23,Personal Grooming Kit,44,25,2.5,7,100
+2025-01-24,Personal Grooming Kit,39,25,2.5,7,100
+2025-01-25,Personal Grooming Kit,22,25,2.5,7,100
+2025-01-26,Personal Grooming Kit,50,25,2.5,7,100
+2025-01-27,Personal Grooming Kit,43,25,2.5,7,100
+2025-01-28,Personal Grooming Kit,32,25,2.5,7,100
+2025-01-29,Personal Grooming Kit,28,25,2.5,7,100
+2025-01-30,Personal Grooming Kit,32,25,2.5,7,100
+2025-01-31,Personal Grooming Kit,16,25,2.5,7,100
+2025-02-01,Personal Grooming Kit,46,25,2.5,7,100
+2025-02-02,Personal Grooming Kit,22,25,2.5,7,100
+2025-02-03,Personal Grooming Kit,30,25,2.5,7,100
+2025-02-04,Personal Grooming Kit,43,25,2.5,7,100
+2025-02-05,Personal Grooming Kit,23,25,2.5,7,100
+2025-02-06,Personal Grooming Kit,18,25,2.5,7,100
+2025-02-07,Personal Grooming Kit,15,25,2.5,7,100
+2025-02-08,Personal Grooming Kit,23,25,2.5,7,100
+2025-02-09,Personal Grooming Kit,19,25,2.5,7,100
+2025-02-10,Personal Grooming Kit,28,25,2.5,7,100
+2025-02-11,Personal Grooming Kit,35,25,2.5,7,100
+2025-02-12,Personal Grooming Kit,30,25,2.5,7,100
+2025-02-13,Personal Grooming Kit,34,25,2.5,7,100
+2025-02-14,Personal Grooming Kit,38,25,2.5,7,100
+2025-02-15,Personal Grooming Kit,28,25,2.5,7,100
+2025-02-16,Personal Grooming Kit,27,25,2.5,7,100
+2025-02-17,Personal Grooming Kit,17,25,2.5,7,100
+2025-02-18,Personal Grooming Kit,31,25,2.5,7,100
+2025-02-19,Personal Grooming Kit,15,25,2.5,7,100
+2025-02-20,Personal Grooming Kit,30,25,2.5,7,100
+2025-02-21,Personal Grooming Kit,26,25,2.5,7,100
+2025-02-22,Personal Grooming Kit,53,25,2.5,7,100
+2025-02-23,Personal Grooming Kit,42,25,2.5,7,100
+2025-02-24,Personal Grooming Kit,36,25,2.5,7,100
+2025-02-25,Personal Grooming Kit,37,25,2.5,7,100
+2025-02-26,Personal Grooming Kit,36,25,2.5,7,100
+2025-02-27,Personal Grooming Kit,28,25,2.5,7,100
+2025-02-28,Personal Grooming Kit,44,25,2.5,7,100
+2025-03-01,Personal Grooming Kit,26,25,2.5,7,100
+2025-03-02,Personal Grooming Kit,26,25,2.5,7,100
+2025-03-03,Personal Grooming Kit,27,25,2.5,7,100
+2025-03-04,Personal Grooming Kit,33,25,2.5,7,100
+2025-03-05,Personal Grooming Kit,36,25,2.5,7,100
+2025-03-06,Personal Grooming Kit,22,25,2.5,7,100
+2025-03-07,Personal Grooming Kit,41,25,2.5,7,100
+2025-03-08,Personal Grooming Kit,53,25,2.5,7,100
+2025-03-09,Personal Grooming Kit,20,25,2.5,7,100
+2025-03-10,Personal Grooming Kit,35,25,2.5,7,100
+2025-03-11,Personal Grooming Kit,44,25,2.5,7,100
+2025-03-12,Personal Grooming Kit,15,25,2.5,7,100
+2025-03-13,Personal Grooming Kit,42,25,2.5,7,100
+2025-03-14,Personal Grooming Kit,29,25,2.5,7,100
+2025-03-15,Personal Grooming Kit,19,25,2.5,7,100
+2025-03-16,Personal Grooming Kit,24,25,2.5,7,100
+2025-03-17,Personal Grooming Kit,42,25,2.5,7,100
+2025-03-18,Personal Grooming Kit,43,25,2.5,7,100
+2025-03-19,Personal Grooming Kit,30,25,2.5,7,100
+2025-03-20,Personal Grooming Kit,33,25,2.5,7,100
+2025-03-21,Personal Grooming Kit,18,25,2.5,7,100
+2025-03-22,Personal Grooming Kit,22,25,2.5,7,100
+2025-03-23,Personal Grooming Kit,40,25,2.5,7,100
+2025-03-24,Personal Grooming Kit,31,25,2.5,7,100
+2025-03-25,Personal Grooming Kit,26,25,2.5,7,100
+2025-03-26,Personal Grooming Kit,42,25,2.5,7,100
+2025-03-27,Personal Grooming Kit,44,25,2.5,7,100
+2025-03-28,Personal Grooming Kit,43,25,2.5,7,100
+2025-03-29,Personal Grooming Kit,36,25,2.5,7,100
+2025-03-30,Personal Grooming Kit,45,25,2.5,7,100
+2025-03-31,Personal Grooming Kit,20,25,2.5,7,100
+2025-04-01,Personal Grooming Kit,17,25,2.5,7,100
+2025-04-02,Personal Grooming Kit,42,25,2.5,7,100
+2025-04-03,Personal Grooming Kit,23,25,2.5,7,100
+2025-04-04,Personal Grooming Kit,19,25,2.5,7,100
+2025-04-05,Personal Grooming Kit,49,25,2.5,7,100
+2025-04-06,Personal Grooming Kit,55,25,2.5,7,100
+2025-04-07,Personal Grooming Kit,31,25,2.5,7,100
+2025-04-08,Personal Grooming Kit,28,25,2.5,7,100
+2025-04-09,Personal Grooming Kit,35,25,2.5,7,100
+2025-04-10,Personal Grooming Kit,17,25,2.5,7,100
+2025-04-11,Personal Grooming Kit,42,25,2.5,7,100
+2025-04-12,Personal Grooming Kit,19,25,2.5,7,100
+2025-04-13,Personal Grooming Kit,44,25,2.5,7,100
+2025-04-14,Personal Grooming Kit,43,25,2.5,7,100
+2025-04-15,Personal Grooming Kit,35,25,2.5,7,100
+2025-04-16,Personal Grooming Kit,37,25,2.5,7,100
+2025-04-17,Personal Grooming Kit,15,25,2.5,7,100
+2025-04-18,Personal Grooming Kit,17,25,2.5,7,100
+2025-04-19,Personal Grooming Kit,41,25,2.5,7,100
+2025-04-20,Personal Grooming Kit,50,25,2.5,7,100
+2025-04-21,Personal Grooming Kit,24,25,2.5,7,100
+2025-04-22,Personal Grooming Kit,36,25,2.5,7,100
+2025-04-23,Personal Grooming Kit,40,25,2.5,7,100
+2025-04-24,Personal Grooming Kit,17,25,2.5,7,100
+2025-04-25,Personal Grooming Kit,22,25,2.5,7,100
+2025-04-26,Personal Grooming Kit,36,25,2.5,7,100
+2025-04-27,Personal Grooming Kit,49,25,2.5,7,100
+2025-04-28,Personal Grooming Kit,32,25,2.5,7,100
+2025-04-29,Personal Grooming Kit,29,25,2.5,7,100
+2025-04-30,Personal Grooming Kit,36,25,2.5,7,100
+2025-05-01,Personal Grooming Kit,37,25,2.5,7,100
+2025-05-02,Personal Grooming Kit,16,25,2.5,7,100
+2025-05-03,Personal Grooming Kit,53,25,2.5,7,100
+2025-05-04,Personal Grooming Kit,31,25,2.5,7,100
+2025-05-05,Personal Grooming Kit,16,25,2.5,7,100
+2025-05-06,Personal Grooming Kit,40,25,2.5,7,100
+2025-05-07,Personal Grooming Kit,31,25,2.5,7,100
+2025-05-08,Personal Grooming Kit,22,25,2.5,7,100
+2025-05-09,Personal Grooming Kit,15,25,2.5,7,100
+2025-05-10,Personal Grooming Kit,29,25,2.5,7,100
+2025-05-11,Personal Grooming Kit,32,25,2.5,7,100
+2025-05-12,Personal Grooming Kit,36,25,2.5,7,100
+2025-05-13,Personal Grooming Kit,30,25,2.5,7,100
+2025-05-14,Personal Grooming Kit,21,25,2.5,7,100
+2025-05-15,Personal Grooming Kit,43,25,2.5,7,100
+2025-05-16,Personal Grooming Kit,24,25,2.5,7,100
+2025-05-17,Personal Grooming Kit,48,25,2.5,7,100
+2025-05-18,Personal Grooming Kit,52,25,2.5,7,100
+2025-05-19,Personal Grooming Kit,17,25,2.5,7,100
+2025-05-20,Personal Grooming Kit,32,25,2.5,7,100
+2025-05-21,Personal Grooming Kit,39,25,2.5,7,100
+2025-05-22,Personal Grooming Kit,38,25,2.5,7,100
+2025-05-23,Personal Grooming Kit,27,25,2.5,7,100
+2025-05-24,Personal Grooming Kit,54,25,2.5,7,100
+2025-05-25,Personal Grooming Kit,52,25,2.5,7,100
+2025-05-26,Personal Grooming Kit,21,25,2.5,7,100
+2025-05-27,Personal Grooming Kit,39,25,2.5,7,100
+2025-05-28,Personal Grooming Kit,18,25,2.5,7,100
+2025-05-29,Personal Grooming Kit,27,25,2.5,7,100
+2025-05-30,Personal Grooming Kit,34,25,2.5,7,100
+2025-05-31,Personal Grooming Kit,19,25,2.5,7,100
+2025-06-01,Personal Grooming Kit,28,25,2.5,7,100
+2025-06-02,Personal Grooming Kit,28,25,2.5,7,100
+2025-06-03,Personal Grooming Kit,30,25,2.5,7,100
+2025-06-04,Personal Grooming Kit,28,25,2.5,7,100
+2025-06-05,Personal Grooming Kit,26,25,2.5,7,100
+2025-06-06,Personal Grooming Kit,33,25,2.5,7,100
+2025-06-07,Personal Grooming Kit,48,25,2.5,7,100
+2025-06-08,Personal Grooming Kit,37,25,2.5,7,100
+2025-06-09,Personal Grooming Kit,42,25,2.5,7,100
+2025-06-10,Personal Grooming Kit,16,25,2.5,7,100
+2025-06-11,Personal Grooming Kit,16,25,2.5,7,100
+2025-06-12,Personal Grooming Kit,37,25,2.5,7,100
+2025-06-13,Personal Grooming Kit,36,25,2.5,7,100
+2025-06-14,Personal Grooming Kit,42,25,2.5,7,100
+2025-06-15,Personal Grooming Kit,50,25,2.5,7,100
+2025-06-16,Personal Grooming Kit,40,25,2.5,7,100
+2025-06-17,Personal Grooming Kit,44,25,2.5,7,100
+2025-06-18,Personal Grooming Kit,43,25,2.5,7,100
+2025-06-19,Personal Grooming Kit,36,25,2.5,7,100
+2025-06-20,Personal Grooming Kit,40,25,2.5,7,100
+2025-06-21,Personal Grooming Kit,52,25,2.5,7,100
+2025-06-22,Personal Grooming Kit,46,25,2.5,7,100
+2025-06-23,Personal Grooming Kit,31,25,2.5,7,100
+2025-06-24,Personal Grooming Kit,34,25,2.5,7,100
+2025-06-25,Personal Grooming Kit,24,25,2.5,7,100
+2025-06-26,Personal Grooming Kit,20,25,2.5,7,100
+2025-06-27,Personal Grooming Kit,29,25,2.5,7,100
+2025-06-28,Personal Grooming Kit,46,25,2.5,7,100
+2025-06-29,Personal Grooming Kit,32,25,2.5,7,100
+2025-06-30,Personal Grooming Kit,42,25,2.5,7,100
+2025-07-01,Personal Grooming Kit,19,25,2.5,7,100
+2025-07-02,Personal Grooming Kit,15,25,2.5,7,100
+2025-07-03,Personal Grooming Kit,22,25,2.5,7,100
+2025-07-04,Personal Grooming Kit,35,25,2.5,7,100
+2025-07-05,Personal Grooming Kit,54,25,2.5,7,100
+2025-07-06,Personal Grooming Kit,33,25,2.5,7,100
+2025-07-07,Personal Grooming Kit,26,25,2.5,7,100
+2025-07-08,Personal Grooming Kit,19,25,2.5,7,100
+2025-07-09,Personal Grooming Kit,21,25,2.5,7,100
+2025-07-10,Personal Grooming Kit,18,25,2.5,7,100
+2025-07-11,Personal Grooming Kit,20,25,2.5,7,100
+2025-07-12,Personal Grooming Kit,35,25,2.5,7,100
+2025-07-13,Personal Grooming Kit,44,25,2.5,7,100
+2025-07-14,Personal Grooming Kit,44,25,2.5,7,100
+2025-07-15,Personal Grooming Kit,29,25,2.5,7,100
+2025-07-16,Personal Grooming Kit,17,25,2.5,7,100
+2025-07-17,Personal Grooming Kit,37,25,2.5,7,100
+2025-07-18,Personal Grooming Kit,22,25,2.5,7,100
+2025-07-19,Personal Grooming Kit,44,25,2.5,7,100
+2025-07-20,Personal Grooming Kit,39,25,2.5,7,100
+2025-07-21,Personal Grooming Kit,27,25,2.5,7,100
+2025-07-22,Personal Grooming Kit,32,25,2.5,7,100
+2025-07-23,Personal Grooming Kit,42,25,2.5,7,100
+2025-07-24,Personal Grooming Kit,24,25,2.5,7,100
+2025-07-25,Personal Grooming Kit,44,25,2.5,7,100
+2025-07-26,Personal Grooming Kit,42,25,2.5,7,100
+2025-07-27,Personal Grooming Kit,40,25,2.5,7,100
+2025-07-28,Personal Grooming Kit,38,25,2.5,7,100
+2025-07-29,Personal Grooming Kit,33,25,2.5,7,100
+2025-07-30,Personal Grooming Kit,42,25,2.5,7,100
+2025-07-31,Personal Grooming Kit,40,25,2.5,7,100
+2025-08-01,Personal Grooming Kit,37,25,2.5,7,100
+2025-08-02,Personal Grooming Kit,52,25,2.5,7,100
+2025-08-03,Personal Grooming Kit,24,25,2.5,7,100
+2025-08-04,Personal Grooming Kit,40,25,2.5,7,100
+2025-08-05,Personal Grooming Kit,35,25,2.5,7,100
+2025-08-06,Personal Grooming Kit,44,25,2.5,7,100
+2025-08-07,Personal Grooming Kit,37,25,2.5,7,100
+2025-08-08,Personal Grooming Kit,23,25,2.5,7,100
+2025-08-09,Personal Grooming Kit,33,25,2.5,7,100
+2025-08-10,Personal Grooming Kit,45,25,2.5,7,100
+2025-08-11,Personal Grooming Kit,15,25,2.5,7,100
+2025-08-12,Personal Grooming Kit,40,25,2.5,7,100
+2025-08-13,Personal Grooming Kit,40,25,2.5,7,100
+2025-08-14,Personal Grooming Kit,15,25,2.5,7,100
+2025-08-15,Personal Grooming Kit,29,25,2.5,7,100
+2025-08-16,Personal Grooming Kit,20,25,2.5,7,100
+2025-08-17,Personal Grooming Kit,57,25,2.5,7,100
+2025-08-18,Personal Grooming Kit,36,25,2.5,7,100
+2025-08-19,Personal Grooming Kit,30,25,2.5,7,100
+2025-08-20,Personal Grooming Kit,39,25,2.5,7,100
+2025-08-21,Personal Grooming Kit,22,25,2.5,7,100
+2025-08-22,Personal Grooming Kit,27,25,2.5,7,100
+2025-08-23,Personal Grooming Kit,45,25,2.5,7,100
+2025-08-24,Personal Grooming Kit,19,25,2.5,7,100
+2025-08-25,Personal Grooming Kit,30,25,2.5,7,100
+2025-08-26,Personal Grooming Kit,43,25,2.5,7,100
+2025-08-27,Personal Grooming Kit,21,25,2.5,7,100
+2025-08-28,Personal Grooming Kit,19,25,2.5,7,100
+2025-08-29,Personal Grooming Kit,36,25,2.5,7,100
+2025-08-30,Personal Grooming Kit,55,25,2.5,7,100
+2025-08-31,Personal Grooming Kit,48,25,2.5,7,100
+2025-09-01,Personal Grooming Kit,17,25,2.5,7,100
+2025-09-02,Personal Grooming Kit,26,25,2.5,7,100
+2025-09-03,Personal Grooming Kit,40,25,2.5,7,100
+2025-09-04,Personal Grooming Kit,30,25,2.5,7,100
+2025-09-05,Personal Grooming Kit,33,25,2.5,7,100
+2025-09-06,Personal Grooming Kit,24,25,2.5,7,100
+2025-09-07,Personal Grooming Kit,46,25,2.5,7,100
+2025-09-08,Personal Grooming Kit,39,25,2.5,7,100
+2025-09-09,Personal Grooming Kit,43,25,2.5,7,100
+2025-09-10,Personal Grooming Kit,28,25,2.5,7,100
+2025-09-11,Personal Grooming Kit,42,25,2.5,7,100
+2025-09-12,Personal Grooming Kit,19,25,2.5,7,100
+2025-09-13,Personal Grooming Kit,37,25,2.5,7,100
+2025-09-14,Personal Grooming Kit,40,25,2.5,7,100
+2025-09-15,Personal Grooming Kit,44,25,2.5,7,100
+2025-09-16,Personal Grooming Kit,28,25,2.5,7,100
+2025-09-17,Personal Grooming Kit,44,25,2.5,7,100
+2025-09-18,Personal Grooming Kit,34,25,2.5,7,100
+2025-09-19,Personal Grooming Kit,19,25,2.5,7,100
+2025-09-20,Personal Grooming Kit,33,25,2.5,7,100
+2025-09-21,Personal Grooming Kit,39,25,2.5,7,100
+2025-09-22,Personal Grooming Kit,40,25,2.5,7,100
+2025-09-23,Personal Grooming Kit,40,25,2.5,7,100
+2025-09-24,Personal Grooming Kit,30,25,2.5,7,100
+2025-09-25,Personal Grooming Kit,35,25,2.5,7,100
+2025-09-26,Personal Grooming Kit,21,25,2.5,7,100
+2025-09-27,Personal Grooming Kit,23,25,2.5,7,100
+2025-09-28,Personal Grooming Kit,19,25,2.5,7,100
+2025-09-29,Personal Grooming Kit,44,25,2.5,7,100
+2025-09-30,Personal Grooming Kit,44,25,2.5,7,100
+2025-10-01,Personal Grooming Kit,19,25,2.5,7,100
+2025-10-02,Personal Grooming Kit,37,25,2.5,7,100
+2025-10-03,Personal Grooming Kit,40,25,2.5,7,100
+2025-10-04,Personal Grooming Kit,31,25,2.5,7,100
+2025-10-05,Personal Grooming Kit,46,25,2.5,7,100
+2025-10-06,Personal Grooming Kit,19,25,2.5,7,100
+2025-10-07,Personal Grooming Kit,18,25,2.5,7,100
+2025-10-08,Personal Grooming Kit,16,25,2.5,7,100
+2025-10-09,Personal Grooming Kit,34,25,2.5,7,100
+2025-10-10,Personal Grooming Kit,24,25,2.5,7,100
+2025-10-11,Personal Grooming Kit,52,25,2.5,7,100
+2025-10-12,Personal Grooming Kit,42,25,2.5,7,100
+2025-10-13,Personal Grooming Kit,40,25,2.5,7,100
+2025-10-14,Personal Grooming Kit,15,25,2.5,7,100
+2025-10-15,Personal Grooming Kit,38,25,2.5,7,100
+2025-10-16,Personal Grooming Kit,19,25,2.5,7,100
+2025-10-17,Personal Grooming Kit,27,25,2.5,7,100
+2025-10-18,Personal Grooming Kit,23,25,2.5,7,100
+2025-10-19,Personal Grooming Kit,39,25,2.5,7,100
+2025-10-20,Personal Grooming Kit,38,25,2.5,7,100
+2025-10-21,Personal Grooming Kit,30,25,2.5,7,100
+2025-10-22,Personal Grooming Kit,37,25,2.5,7,100
+2025-10-23,Personal Grooming Kit,16,25,2.5,7,100
+2025-10-24,Personal Grooming Kit,31,25,2.5,7,100
+2025-10-25,Personal Grooming Kit,54,25,2.5,7,100
+2025-10-26,Personal Grooming Kit,53,25,2.5,7,100
+2025-10-27,Personal Grooming Kit,34,25,2.5,7,100
+2025-10-28,Personal Grooming Kit,38,25,2.5,7,100
+2025-10-29,Personal Grooming Kit,26,25,2.5,7,100
+2025-10-30,Personal Grooming Kit,32,25,2.5,7,100
+2025-10-31,Personal Grooming Kit,17,25,2.5,7,100
+2025-11-01,Personal Grooming Kit,54,25,2.5,7,100
+2025-11-02,Personal Grooming Kit,19,25,2.5,7,100
+2025-11-03,Personal Grooming Kit,15,25,2.5,7,100
+2025-11-04,Personal Grooming Kit,43,25,2.5,7,100
+2025-11-05,Personal Grooming Kit,33,25,2.5,7,100
+2025-11-06,Personal Grooming Kit,25,25,2.5,7,100
+2025-11-07,Personal Grooming Kit,19,25,2.5,7,100
+2025-11-08,Personal Grooming Kit,33,25,2.5,7,100
+2025-11-09,Personal Grooming Kit,22,25,2.5,7,100
+2025-11-10,Personal Grooming Kit,15,25,2.5,7,100
+2025-11-11,Personal Grooming Kit,15,25,2.5,7,100
+2025-11-12,Personal Grooming Kit,22,25,2.5,7,100
+2025-11-13,Personal Grooming Kit,24,25,2.5,7,100
+2025-11-14,Personal Grooming Kit,25,25,2.5,7,100
+2025-11-15,Personal Grooming Kit,33,25,2.5,7,100
+2025-11-16,Personal Grooming Kit,55,25,2.5,7,100
+2025-11-17,Personal Grooming Kit,27,25,2.5,7,100
+2025-11-18,Personal Grooming Kit,26,25,2.5,7,100
+2025-11-19,Personal Grooming Kit,28,25,2.5,7,100
+2025-11-20,Personal Grooming Kit,16,25,2.5,7,100
+2025-11-21,Personal Grooming Kit,43,25,2.5,7,100
+2025-11-22,Personal Grooming Kit,42,25,2.5,7,100
+2025-11-23,Personal Grooming Kit,41,25,2.5,7,100
+2025-11-24,Personal Grooming Kit,17,25,2.5,7,100
+2025-11-25,Personal Grooming Kit,37,25,2.5,7,100
+2025-11-26,Personal Grooming Kit,31,25,2.5,7,100
+2025-11-27,Personal Grooming Kit,40,25,2.5,7,100
+2025-11-28,Personal Grooming Kit,22,25,2.5,7,100
+2025-11-29,Personal Grooming Kit,55,25,2.5,7,100
+2025-11-30,Personal Grooming Kit,52,25,2.5,7,100
+2025-12-01,Personal Grooming Kit,24,25,2.5,7,100
+2025-12-02,Personal Grooming Kit,40,25,2.5,7,100
+2025-12-03,Personal Grooming Kit,44,25,2.5,7,100
+2025-12-04,Personal Grooming Kit,16,25,2.5,7,100
+2025-12-05,Personal Grooming Kit,33,25,2.5,7,100
+2025-12-06,Personal Grooming Kit,29,25,2.5,7,100
+2025-12-07,Personal Grooming Kit,27,25,2.5,7,100
+2025-12-08,Personal Grooming Kit,18,25,2.5,7,100
+2025-12-09,Personal Grooming Kit,40,25,2.5,7,100
+2025-12-10,Personal Grooming Kit,35,25,2.5,7,100
+2025-12-11,Personal Grooming Kit,32,25,2.5,7,100
+2025-12-12,Personal Grooming Kit,27,25,2.5,7,100
+2025-12-13,Personal Grooming Kit,32,25,2.5,7,100
+2025-12-14,Personal Grooming Kit,55,25,2.5,7,100
+2025-12-15,Personal Grooming Kit,38,25,2.5,7,100
+2025-12-16,Personal Grooming Kit,18,25,2.5,7,100
+2025-12-17,Personal Grooming Kit,39,25,2.5,7,100
+2025-12-18,Personal Grooming Kit,35,25,2.5,7,100
+2025-12-19,Personal Grooming Kit,43,25,2.5,7,100
+2025-12-20,Personal Grooming Kit,50,25,2.5,7,100
+2025-12-21,Personal Grooming Kit,23,25,2.5,7,100
+2025-12-22,Personal Grooming Kit,24,25,2.5,7,100
+2025-12-23,Personal Grooming Kit,19,25,2.5,7,100
+2025-12-24,Personal Grooming Kit,23,25,2.5,7,100
+2025-12-25,Personal Grooming Kit,38,25,2.5,7,100
+2025-12-26,Personal Grooming Kit,17,25,2.5,7,100
+2025-12-27,Personal Grooming Kit,40,25,2.5,7,100
+2025-12-28,Personal Grooming Kit,22,25,2.5,7,100
+2025-12-29,Personal Grooming Kit,30,25,2.5,7,100
+2025-12-30,Personal Grooming Kit,18,25,2.5,7,100
+2025-12-31,Personal Grooming Kit,32,25,2.5,7,100
+2025-01-01,Bulk Shampoo,31,8,0.8,4,100
+2025-01-02,Bulk Shampoo,21,8,0.8,4,100
+2025-01-03,Bulk Shampoo,38,8,0.8,4,100
+2025-01-04,Bulk Shampoo,48,8,0.8,4,100
+2025-01-05,Bulk Shampoo,57,8,0.8,4,100
+2025-01-06,Bulk Shampoo,19,8,0.8,4,100
+2025-01-07,Bulk Shampoo,26,8,0.8,4,100
+2025-01-08,Bulk Shampoo,31,8,0.8,4,100
+2025-01-09,Bulk Shampoo,37,8,0.8,4,100
+2025-01-10,Bulk Shampoo,27,8,0.8,4,100
+2025-01-11,Bulk Shampoo,48,8,0.8,4,100
+2025-01-12,Bulk Shampoo,50,8,0.8,4,100
+2025-01-13,Bulk Shampoo,17,8,0.8,4,100
+2025-01-14,Bulk Shampoo,23,8,0.8,4,100
+2025-01-15,Bulk Shampoo,44,8,0.8,4,100
+2025-01-16,Bulk Shampoo,31,8,0.8,4,100
+2025-01-17,Bulk Shampoo,31,8,0.8,4,100
+2025-01-18,Bulk Shampoo,57,8,0.8,4,100
+2025-01-19,Bulk Shampoo,44,8,0.8,4,100
+2025-01-20,Bulk Shampoo,30,8,0.8,4,100
+2025-01-21,Bulk Shampoo,39,8,0.8,4,100
+2025-01-22,Bulk Shampoo,36,8,0.8,4,100
+2025-01-23,Bulk Shampoo,27,8,0.8,4,100
+2025-01-24,Bulk Shampoo,41,8,0.8,4,100
+2025-01-25,Bulk Shampoo,42,8,0.8,4,100
+2025-01-26,Bulk Shampoo,40,8,0.8,4,100
+2025-01-27,Bulk Shampoo,18,8,0.8,4,100
+2025-01-28,Bulk Shampoo,26,8,0.8,4,100
+2025-01-29,Bulk Shampoo,43,8,0.8,4,100
+2025-01-30,Bulk Shampoo,23,8,0.8,4,100
+2025-01-31,Bulk Shampoo,33,8,0.8,4,100
+2025-02-01,Bulk Shampoo,33,8,0.8,4,100
+2025-02-02,Bulk Shampoo,29,8,0.8,4,100
+2025-02-03,Bulk Shampoo,21,8,0.8,4,100
+2025-02-04,Bulk Shampoo,42,8,0.8,4,100
+2025-02-05,Bulk Shampoo,28,8,0.8,4,100
+2025-02-06,Bulk Shampoo,34,8,0.8,4,100
+2025-02-07,Bulk Shampoo,33,8,0.8,4,100
+2025-02-08,Bulk Shampoo,52,8,0.8,4,100
+2025-02-09,Bulk Shampoo,37,8,0.8,4,100
+2025-02-10,Bulk Shampoo,30,8,0.8,4,100
+2025-02-11,Bulk Shampoo,35,8,0.8,4,100
+2025-02-12,Bulk Shampoo,19,8,0.8,4,100
+2025-02-13,Bulk Shampoo,17,8,0.8,4,100
+2025-02-14,Bulk Shampoo,26,8,0.8,4,100
+2025-02-15,Bulk Shampoo,50,8,0.8,4,100
+2025-02-16,Bulk Shampoo,44,8,0.8,4,100
+2025-02-17,Bulk Shampoo,41,8,0.8,4,100
+2025-02-18,Bulk Shampoo,35,8,0.8,4,100
+2025-02-19,Bulk Shampoo,18,8,0.8,4,100
+2025-02-20,Bulk Shampoo,35,8,0.8,4,100
+2025-02-21,Bulk Shampoo,37,8,0.8,4,100
+2025-02-22,Bulk Shampoo,39,8,0.8,4,100
+2025-02-23,Bulk Shampoo,50,8,0.8,4,100
+2025-02-24,Bulk Shampoo,21,8,0.8,4,100
+2025-02-25,Bulk Shampoo,27,8,0.8,4,100
+2025-02-26,Bulk Shampoo,35,8,0.8,4,100
+2025-02-27,Bulk Shampoo,24,8,0.8,4,100
+2025-02-28,Bulk Shampoo,40,8,0.8,4,100
+2025-03-01,Bulk Shampoo,27,8,0.8,4,100
+2025-03-02,Bulk Shampoo,36,8,0.8,4,100
+2025-03-03,Bulk Shampoo,40,8,0.8,4,100
+2025-03-04,Bulk Shampoo,19,8,0.8,4,100
+2025-03-05,Bulk Shampoo,17,8,0.8,4,100
+2025-03-06,Bulk Shampoo,37,8,0.8,4,100
+2025-03-07,Bulk Shampoo,43,8,0.8,4,100
+2025-03-08,Bulk Shampoo,32,8,0.8,4,100
+2025-03-09,Bulk Shampoo,32,8,0.8,4,100
+2025-03-10,Bulk Shampoo,32,8,0.8,4,100
+2025-03-11,Bulk Shampoo,29,8,0.8,4,100
+2025-03-12,Bulk Shampoo,26,8,0.8,4,100
+2025-03-13,Bulk Shampoo,23,8,0.8,4,100
+2025-03-14,Bulk Shampoo,24,8,0.8,4,100
+2025-03-15,Bulk Shampoo,52,8,0.8,4,100
+2025-03-16,Bulk Shampoo,33,8,0.8,4,100
+2025-03-17,Bulk Shampoo,31,8,0.8,4,100
+2025-03-18,Bulk Shampoo,43,8,0.8,4,100
+2025-03-19,Bulk Shampoo,20,8,0.8,4,100
+2025-03-20,Bulk Shampoo,21,8,0.8,4,100
+2025-03-21,Bulk Shampoo,28,8,0.8,4,100
+2025-03-22,Bulk Shampoo,35,8,0.8,4,100
+2025-03-23,Bulk Shampoo,28,8,0.8,4,100
+2025-03-24,Bulk Shampoo,24,8,0.8,4,100
+2025-03-25,Bulk Shampoo,23,8,0.8,4,100
+2025-03-26,Bulk Shampoo,32,8,0.8,4,100
+2025-03-27,Bulk Shampoo,41,8,0.8,4,100
+2025-03-28,Bulk Shampoo,40,8,0.8,4,100
+2025-03-29,Bulk Shampoo,20,8,0.8,4,100
+2025-03-30,Bulk Shampoo,24,8,0.8,4,100
+2025-03-31,Bulk Shampoo,43,8,0.8,4,100
+2025-04-01,Bulk Shampoo,19,8,0.8,4,100
+2025-04-02,Bulk Shampoo,20,8,0.8,4,100
+2025-04-03,Bulk Shampoo,33,8,0.8,4,100
+2025-04-04,Bulk Shampoo,22,8,0.8,4,100
+2025-04-05,Bulk Shampoo,39,8,0.8,4,100
+2025-04-06,Bulk Shampoo,35,8,0.8,4,100
+2025-04-07,Bulk Shampoo,15,8,0.8,4,100
+2025-04-08,Bulk Shampoo,36,8,0.8,4,100
+2025-04-09,Bulk Shampoo,34,8,0.8,4,100
+2025-04-10,Bulk Shampoo,31,8,0.8,4,100
+2025-04-11,Bulk Shampoo,21,8,0.8,4,100
+2025-04-12,Bulk Shampoo,50,8,0.8,4,100
+2025-04-13,Bulk Shampoo,35,8,0.8,4,100
+2025-04-14,Bulk Shampoo,18,8,0.8,4,100
+2025-04-15,Bulk Shampoo,18,8,0.8,4,100
+2025-04-16,Bulk Shampoo,20,8,0.8,4,100
+2025-04-17,Bulk Shampoo,42,8,0.8,4,100
+2025-04-18,Bulk Shampoo,33,8,0.8,4,100
+2025-04-19,Bulk Shampoo,55,8,0.8,4,100
+2025-04-20,Bulk Shampoo,33,8,0.8,4,100
+2025-04-21,Bulk Shampoo,36,8,0.8,4,100
+2025-04-22,Bulk Shampoo,21,8,0.8,4,100
+2025-04-23,Bulk Shampoo,41,8,0.8,4,100
+2025-04-24,Bulk Shampoo,24,8,0.8,4,100
+2025-04-25,Bulk Shampoo,40,8,0.8,4,100
+2025-04-26,Bulk Shampoo,42,8,0.8,4,100
+2025-04-27,Bulk Shampoo,27,8,0.8,4,100
+2025-04-28,Bulk Shampoo,44,8,0.8,4,100
+2025-04-29,Bulk Shampoo,17,8,0.8,4,100
+2025-04-30,Bulk Shampoo,27,8,0.8,4,100
+2025-05-01,Bulk Shampoo,27,8,0.8,4,100
+2025-05-02,Bulk Shampoo,32,8,0.8,4,100
+2025-05-03,Bulk Shampoo,54,8,0.8,4,100
+2025-05-04,Bulk Shampoo,57,8,0.8,4,100
+2025-05-05,Bulk Shampoo,40,8,0.8,4,100
+2025-05-06,Bulk Shampoo,34,8,0.8,4,100
+2025-05-07,Bulk Shampoo,42,8,0.8,4,100
+2025-05-08,Bulk Shampoo,22,8,0.8,4,100
+2025-05-09,Bulk Shampoo,43,8,0.8,4,100
+2025-05-10,Bulk Shampoo,29,8,0.8,4,100
+2025-05-11,Bulk Shampoo,27,8,0.8,4,100
+2025-05-12,Bulk Shampoo,15,8,0.8,4,100
+2025-05-13,Bulk Shampoo,17,8,0.8,4,100
+2025-05-14,Bulk Shampoo,27,8,0.8,4,100
+2025-05-15,Bulk Shampoo,42,8,0.8,4,100
+2025-05-16,Bulk Shampoo,44,8,0.8,4,100
+2025-05-17,Bulk Shampoo,50,8,0.8,4,100
+2025-05-18,Bulk Shampoo,54,8,0.8,4,100
+2025-05-19,Bulk Shampoo,31,8,0.8,4,100
+2025-05-20,Bulk Shampoo,39,8,0.8,4,100
+2025-05-21,Bulk Shampoo,38,8,0.8,4,100
+2025-05-22,Bulk Shampoo,15,8,0.8,4,100
+2025-05-23,Bulk Shampoo,20,8,0.8,4,100
+2025-05-24,Bulk Shampoo,45,8,0.8,4,100
+2025-05-25,Bulk Shampoo,26,8,0.8,4,100
+2025-05-26,Bulk Shampoo,40,8,0.8,4,100
+2025-05-27,Bulk Shampoo,26,8,0.8,4,100
+2025-05-28,Bulk Shampoo,27,8,0.8,4,100
+2025-05-29,Bulk Shampoo,27,8,0.8,4,100
+2025-05-30,Bulk Shampoo,43,8,0.8,4,100
+2025-05-31,Bulk Shampoo,37,8,0.8,4,100
+2025-06-01,Bulk Shampoo,45,8,0.8,4,100
+2025-06-02,Bulk Shampoo,30,8,0.8,4,100
+2025-06-03,Bulk Shampoo,36,8,0.8,4,100
+2025-06-04,Bulk Shampoo,35,8,0.8,4,100
+2025-06-05,Bulk Shampoo,25,8,0.8,4,100
+2025-06-06,Bulk Shampoo,42,8,0.8,4,100
+2025-06-07,Bulk Shampoo,24,8,0.8,4,100
+2025-06-08,Bulk Shampoo,23,8,0.8,4,100
+2025-06-09,Bulk Shampoo,17,8,0.8,4,100
+2025-06-10,Bulk Shampoo,33,8,0.8,4,100
+2025-06-11,Bulk Shampoo,34,8,0.8,4,100
+2025-06-12,Bulk Shampoo,39,8,0.8,4,100
+2025-06-13,Bulk Shampoo,32,8,0.8,4,100
+2025-06-14,Bulk Shampoo,37,8,0.8,4,100
+2025-06-15,Bulk Shampoo,29,8,0.8,4,100
+2025-06-16,Bulk Shampoo,31,8,0.8,4,100
+2025-06-17,Bulk Shampoo,28,8,0.8,4,100
+2025-06-18,Bulk Shampoo,29,8,0.8,4,100
+2025-06-19,Bulk Shampoo,15,8,0.8,4,100
+2025-06-20,Bulk Shampoo,35,8,0.8,4,100
+2025-06-21,Bulk Shampoo,46,8,0.8,4,100
+2025-06-22,Bulk Shampoo,46,8,0.8,4,100
+2025-06-23,Bulk Shampoo,17,8,0.8,4,100
+2025-06-24,Bulk Shampoo,30,8,0.8,4,100
+2025-06-25,Bulk Shampoo,37,8,0.8,4,100
+2025-06-26,Bulk Shampoo,39,8,0.8,4,100
+2025-06-27,Bulk Shampoo,25,8,0.8,4,100
+2025-06-28,Bulk Shampoo,33,8,0.8,4,100
+2025-06-29,Bulk Shampoo,31,8,0.8,4,100
+2025-06-30,Bulk Shampoo,30,8,0.8,4,100
+2025-07-01,Bulk Shampoo,22,8,0.8,4,100
+2025-07-02,Bulk Shampoo,20,8,0.8,4,100
+2025-07-03,Bulk Shampoo,26,8,0.8,4,100
+2025-07-04,Bulk Shampoo,38,8,0.8,4,100
+2025-07-05,Bulk Shampoo,54,8,0.8,4,100
+2025-07-06,Bulk Shampoo,45,8,0.8,4,100
+2025-07-07,Bulk Shampoo,22,8,0.8,4,100
+2025-07-08,Bulk Shampoo,40,8,0.8,4,100
+2025-07-09,Bulk Shampoo,42,8,0.8,4,100
+2025-07-10,Bulk Shampoo,18,8,0.8,4,100
+2025-07-11,Bulk Shampoo,40,8,0.8,4,100
+2025-07-12,Bulk Shampoo,28,8,0.8,4,100
+2025-07-13,Bulk Shampoo,52,8,0.8,4,100
+2025-07-14,Bulk Shampoo,42,8,0.8,4,100
+2025-07-15,Bulk Shampoo,32,8,0.8,4,100
+2025-07-16,Bulk Shampoo,42,8,0.8,4,100
+2025-07-17,Bulk Shampoo,42,8,0.8,4,100
+2025-07-18,Bulk Shampoo,19,8,0.8,4,100
+2025-07-19,Bulk Shampoo,29,8,0.8,4,100
+2025-07-20,Bulk Shampoo,23,8,0.8,4,100
+2025-07-21,Bulk Shampoo,41,8,0.8,4,100
+2025-07-22,Bulk Shampoo,36,8,0.8,4,100
+2025-07-23,Bulk Shampoo,31,8,0.8,4,100
+2025-07-24,Bulk Shampoo,23,8,0.8,4,100
+2025-07-25,Bulk Shampoo,15,8,0.8,4,100
+2025-07-26,Bulk Shampoo,45,8,0.8,4,100
+2025-07-27,Bulk Shampoo,44,8,0.8,4,100
+2025-07-28,Bulk Shampoo,27,8,0.8,4,100
+2025-07-29,Bulk Shampoo,42,8,0.8,4,100
+2025-07-30,Bulk Shampoo,30,8,0.8,4,100
+2025-07-31,Bulk Shampoo,43,8,0.8,4,100
+2025-08-01,Bulk Shampoo,27,8,0.8,4,100
+2025-08-02,Bulk Shampoo,36,8,0.8,4,100
+2025-08-03,Bulk Shampoo,22,8,0.8,4,100
+2025-08-04,Bulk Shampoo,43,8,0.8,4,100
+2025-08-05,Bulk Shampoo,20,8,0.8,4,100
+2025-08-06,Bulk Shampoo,32,8,0.8,4,100
+2025-08-07,Bulk Shampoo,33,8,0.8,4,100
+2025-08-08,Bulk Shampoo,19,8,0.8,4,100
+2025-08-09,Bulk Shampoo,37,8,0.8,4,100
+2025-08-10,Bulk Shampoo,50,8,0.8,4,100
+2025-08-11,Bulk Shampoo,16,8,0.8,4,100
+2025-08-12,Bulk Shampoo,24,8,0.8,4,100
+2025-08-13,Bulk Shampoo,38,8,0.8,4,100
+2025-08-14,Bulk Shampoo,44,8,0.8,4,100
+2025-08-15,Bulk Shampoo,32,8,0.8,4,100
+2025-08-16,Bulk Shampoo,53,8,0.8,4,100
+2025-08-17,Bulk Shampoo,35,8,0.8,4,100
+2025-08-18,Bulk Shampoo,19,8,0.8,4,100
+2025-08-19,Bulk Shampoo,37,8,0.8,4,100
+2025-08-20,Bulk Shampoo,38,8,0.8,4,100
+2025-08-21,Bulk Shampoo,15,8,0.8,4,100
+2025-08-22,Bulk Shampoo,36,8,0.8,4,100
+2025-08-23,Bulk Shampoo,19,8,0.8,4,100
+2025-08-24,Bulk Shampoo,41,8,0.8,4,100
+2025-08-25,Bulk Shampoo,29,8,0.8,4,100
+2025-08-26,Bulk Shampoo,31,8,0.8,4,100
+2025-08-27,Bulk Shampoo,25,8,0.8,4,100
+2025-08-28,Bulk Shampoo,35,8,0.8,4,100
+2025-08-29,Bulk Shampoo,40,8,0.8,4,100
+2025-08-30,Bulk Shampoo,50,8,0.8,4,100
+2025-08-31,Bulk Shampoo,46,8,0.8,4,100
+2025-09-01,Bulk Shampoo,41,8,0.8,4,100
+2025-09-02,Bulk Shampoo,41,8,0.8,4,100
+2025-09-03,Bulk Shampoo,31,8,0.8,4,100
+2025-09-04,Bulk Shampoo,27,8,0.8,4,100
+2025-09-05,Bulk Shampoo,15,8,0.8,4,100
+2025-09-06,Bulk Shampoo,20,8,0.8,4,100
+2025-09-07,Bulk Shampoo,29,8,0.8,4,100
+2025-09-08,Bulk Shampoo,17,8,0.8,4,100
+2025-09-09,Bulk Shampoo,15,8,0.8,4,100
+2025-09-10,Bulk Shampoo,35,8,0.8,4,100
+2025-09-11,Bulk Shampoo,30,8,0.8,4,100
+2025-09-12,Bulk Shampoo,37,8,0.8,4,100
+2025-09-13,Bulk Shampoo,26,8,0.8,4,100
+2025-09-14,Bulk Shampoo,54,8,0.8,4,100
+2025-09-15,Bulk Shampoo,31,8,0.8,4,100
+2025-09-16,Bulk Shampoo,19,8,0.8,4,100
+2025-09-17,Bulk Shampoo,19,8,0.8,4,100
+2025-09-18,Bulk Shampoo,20,8,0.8,4,100
+2025-09-19,Bulk Shampoo,17,8,0.8,4,100
+2025-09-20,Bulk Shampoo,45,8,0.8,4,100
+2025-09-21,Bulk Shampoo,48,8,0.8,4,100
+2025-09-22,Bulk Shampoo,19,8,0.8,4,100
+2025-09-23,Bulk Shampoo,35,8,0.8,4,100
+2025-09-24,Bulk Shampoo,19,8,0.8,4,100
+2025-09-25,Bulk Shampoo,24,8,0.8,4,100
+2025-09-26,Bulk Shampoo,24,8,0.8,4,100
+2025-09-27,Bulk Shampoo,42,8,0.8,4,100
+2025-09-28,Bulk Shampoo,40,8,0.8,4,100
+2025-09-29,Bulk Shampoo,35,8,0.8,4,100
+2025-09-30,Bulk Shampoo,28,8,0.8,4,100
+2025-10-01,Bulk Shampoo,23,8,0.8,4,100
+2025-10-02,Bulk Shampoo,28,8,0.8,4,100
+2025-10-03,Bulk Shampoo,15,8,0.8,4,100
+2025-10-04,Bulk Shampoo,42,8,0.8,4,100
+2025-10-05,Bulk Shampoo,35,8,0.8,4,100
+2025-10-06,Bulk Shampoo,27,8,0.8,4,100
+2025-10-07,Bulk Shampoo,18,8,0.8,4,100
+2025-10-08,Bulk Shampoo,44,8,0.8,4,100
+2025-10-09,Bulk Shampoo,15,8,0.8,4,100
+2025-10-10,Bulk Shampoo,31,8,0.8,4,100
+2025-10-11,Bulk Shampoo,28,8,0.8,4,100
+2025-10-12,Bulk Shampoo,20,8,0.8,4,100
+2025-10-13,Bulk Shampoo,42,8,0.8,4,100
+2025-10-14,Bulk Shampoo,22,8,0.8,4,100
+2025-10-15,Bulk Shampoo,21,8,0.8,4,100
+2025-10-16,Bulk Shampoo,40,8,0.8,4,100
+2025-10-17,Bulk Shampoo,40,8,0.8,4,100
+2025-10-18,Bulk Shampoo,20,8,0.8,4,100
+2025-10-19,Bulk Shampoo,46,8,0.8,4,100
+2025-10-20,Bulk Shampoo,36,8,0.8,4,100
+2025-10-21,Bulk Shampoo,17,8,0.8,4,100
+2025-10-22,Bulk Shampoo,41,8,0.8,4,100
+2025-10-23,Bulk Shampoo,32,8,0.8,4,100
+2025-10-24,Bulk Shampoo,26,8,0.8,4,100
+2025-10-25,Bulk Shampoo,19,8,0.8,4,100
+2025-10-26,Bulk Shampoo,46,8,0.8,4,100
+2025-10-27,Bulk Shampoo,26,8,0.8,4,100
+2025-10-28,Bulk Shampoo,19,8,0.8,4,100
+2025-10-29,Bulk Shampoo,44,8,0.8,4,100
+2025-10-30,Bulk Shampoo,44,8,0.8,4,100
+2025-10-31,Bulk Shampoo,41,8,0.8,4,100
+2025-11-01,Bulk Shampoo,50,8,0.8,4,100
+2025-11-02,Bulk Shampoo,40,8,0.8,4,100
+2025-11-03,Bulk Shampoo,30,8,0.8,4,100
+2025-11-04,Bulk Shampoo,29,8,0.8,4,100
+2025-11-05,Bulk Shampoo,37,8,0.8,4,100
+2025-11-06,Bulk Shampoo,29,8,0.8,4,100
+2025-11-07,Bulk Shampoo,19,8,0.8,4,100
+2025-11-08,Bulk Shampoo,45,8,0.8,4,100
+2025-11-09,Bulk Shampoo,36,8,0.8,4,100
+2025-11-10,Bulk Shampoo,16,8,0.8,4,100
+2025-11-11,Bulk Shampoo,25,8,0.8,4,100
+2025-11-12,Bulk Shampoo,33,8,0.8,4,100
+2025-11-13,Bulk Shampoo,21,8,0.8,4,100
+2025-11-14,Bulk Shampoo,20,8,0.8,4,100
+2025-11-15,Bulk Shampoo,54,8,0.8,4,100
+2025-11-16,Bulk Shampoo,20,8,0.8,4,100
+2025-11-17,Bulk Shampoo,20,8,0.8,4,100
+2025-11-18,Bulk Shampoo,32,8,0.8,4,100
+2025-11-19,Bulk Shampoo,16,8,0.8,4,100
+2025-11-20,Bulk Shampoo,32,8,0.8,4,100
+2025-11-21,Bulk Shampoo,44,8,0.8,4,100
+2025-11-22,Bulk Shampoo,37,8,0.8,4,100
+2025-11-23,Bulk Shampoo,53,8,0.8,4,100
+2025-11-24,Bulk Shampoo,33,8,0.8,4,100
+2025-11-25,Bulk Shampoo,16,8,0.8,4,100
+2025-11-26,Bulk Shampoo,34,8,0.8,4,100
+2025-11-27,Bulk Shampoo,39,8,0.8,4,100
+2025-11-28,Bulk Shampoo,20,8,0.8,4,100
+2025-11-29,Bulk Shampoo,19,8,0.8,4,100
+2025-11-30,Bulk Shampoo,49,8,0.8,4,100
+2025-12-01,Bulk Shampoo,29,8,0.8,4,100
+2025-12-02,Bulk Shampoo,42,8,0.8,4,100
+2025-12-03,Bulk Shampoo,44,8,0.8,4,100
+2025-12-04,Bulk Shampoo,37,8,0.8,4,100
+2025-12-05,Bulk Shampoo,24,8,0.8,4,100
+2025-12-06,Bulk Shampoo,42,8,0.8,4,100
+2025-12-07,Bulk Shampoo,40,8,0.8,4,100
+2025-12-08,Bulk Shampoo,19,8,0.8,4,100
+2025-12-09,Bulk Shampoo,43,8,0.8,4,100
+2025-12-10,Bulk Shampoo,18,8,0.8,4,100
+2025-12-11,Bulk Shampoo,24,8,0.8,4,100
+2025-12-12,Bulk Shampoo,38,8,0.8,4,100
+2025-12-13,Bulk Shampoo,40,8,0.8,4,100
+2025-12-14,Bulk Shampoo,31,8,0.8,4,100
+2025-12-15,Bulk Shampoo,31,8,0.8,4,100
+2025-12-16,Bulk Shampoo,42,8,0.8,4,100
+2025-12-17,Bulk Shampoo,34,8,0.8,4,100
+2025-12-18,Bulk Shampoo,38,8,0.8,4,100
+2025-12-19,Bulk Shampoo,19,8,0.8,4,100
+2025-12-20,Bulk Shampoo,20,8,0.8,4,100
+2025-12-21,Bulk Shampoo,26,8,0.8,4,100
+2025-12-22,Bulk Shampoo,35,8,0.8,4,100
+2025-12-23,Bulk Shampoo,16,8,0.8,4,100
+2025-12-24,Bulk Shampoo,27,8,0.8,4,100
+2025-12-25,Bulk Shampoo,44,8,0.8,4,100
+2025-12-26,Bulk Shampoo,25,8,0.8,4,100
+2025-12-27,Bulk Shampoo,32,8,0.8,4,100
+2025-12-28,Bulk Shampoo,39,8,0.8,4,100
+2025-12-29,Bulk Shampoo,25,8,0.8,4,100
+2025-12-30,Bulk Shampoo,33,8,0.8,4,100
+2025-12-31,Bulk Shampoo,29,8,0.8,4,100
+2025-01-01,Daily Deodorant,39,5,0.5,3,100
+2025-01-02,Daily Deodorant,37,5,0.5,3,100
+2025-01-03,Daily Deodorant,37,5,0.5,3,100
+2025-01-04,Daily Deodorant,39,5,0.5,3,100
+2025-01-05,Daily Deodorant,32,5,0.5,3,100
+2025-01-06,Daily Deodorant,36,5,0.5,3,100
+2025-01-07,Daily Deodorant,30,5,0.5,3,100
+2025-01-08,Daily Deodorant,22,5,0.5,3,100
+2025-01-09,Daily Deodorant,18,5,0.5,3,100
+2025-01-10,Daily Deodorant,22,5,0.5,3,100
+2025-01-11,Daily Deodorant,23,5,0.5,3,100
+2025-01-12,Daily Deodorant,49,5,0.5,3,100
+2025-01-13,Daily Deodorant,39,5,0.5,3,100
+2025-01-14,Daily Deodorant,17,5,0.5,3,100
+2025-01-15,Daily Deodorant,17,5,0.5,3,100
+2025-01-16,Daily Deodorant,41,5,0.5,3,100
+2025-01-17,Daily Deodorant,43,5,0.5,3,100
+2025-01-18,Daily Deodorant,41,5,0.5,3,100
+2025-01-19,Daily Deodorant,55,5,0.5,3,100
+2025-01-20,Daily Deodorant,40,5,0.5,3,100
+2025-01-21,Daily Deodorant,33,5,0.5,3,100
+2025-01-22,Daily Deodorant,33,5,0.5,3,100
+2025-01-23,Daily Deodorant,35,5,0.5,3,100
+2025-01-24,Daily Deodorant,19,5,0.5,3,100
+2025-01-25,Daily Deodorant,41,5,0.5,3,100
+2025-01-26,Daily Deodorant,54,5,0.5,3,100
+2025-01-27,Daily Deodorant,24,5,0.5,3,100
+2025-01-28,Daily Deodorant,43,5,0.5,3,100
+2025-01-29,Daily Deodorant,36,5,0.5,3,100
+2025-01-30,Daily Deodorant,35,5,0.5,3,100
+2025-01-31,Daily Deodorant,20,5,0.5,3,100
+2025-02-01,Daily Deodorant,19,5,0.5,3,100
+2025-02-02,Daily Deodorant,24,5,0.5,3,100
+2025-02-03,Daily Deodorant,23,5,0.5,3,100
+2025-02-04,Daily Deodorant,26,5,0.5,3,100
+2025-02-05,Daily Deodorant,40,5,0.5,3,100
+2025-02-06,Daily Deodorant,28,5,0.5,3,100
+2025-02-07,Daily Deodorant,16,5,0.5,3,100
+2025-02-08,Daily Deodorant,40,5,0.5,3,100
+2025-02-09,Daily Deodorant,36,5,0.5,3,100
+2025-02-10,Daily Deodorant,40,5,0.5,3,100
+2025-02-11,Daily Deodorant,27,5,0.5,3,100
+2025-02-12,Daily Deodorant,41,5,0.5,3,100
+2025-02-13,Daily Deodorant,23,5,0.5,3,100
+2025-02-14,Daily Deodorant,40,5,0.5,3,100
+2025-02-15,Daily Deodorant,50,5,0.5,3,100
+2025-02-16,Daily Deodorant,37,5,0.5,3,100
+2025-02-17,Daily Deodorant,39,5,0.5,3,100
+2025-02-18,Daily Deodorant,36,5,0.5,3,100
+2025-02-19,Daily Deodorant,29,5,0.5,3,100
+2025-02-20,Daily Deodorant,38,5,0.5,3,100
+2025-02-21,Daily Deodorant,44,5,0.5,3,100
+2025-02-22,Daily Deodorant,32,5,0.5,3,100
+2025-02-23,Daily Deodorant,39,5,0.5,3,100
+2025-02-24,Daily Deodorant,43,5,0.5,3,100
+2025-02-25,Daily Deodorant,31,5,0.5,3,100
+2025-02-26,Daily Deodorant,40,5,0.5,3,100
+2025-02-27,Daily Deodorant,18,5,0.5,3,100
+2025-02-28,Daily Deodorant,15,5,0.5,3,100
+2025-03-01,Daily Deodorant,28,5,0.5,3,100
+2025-03-02,Daily Deodorant,40,5,0.5,3,100
+2025-03-03,Daily Deodorant,17,5,0.5,3,100
+2025-03-04,Daily Deodorant,43,5,0.5,3,100
+2025-03-05,Daily Deodorant,34,5,0.5,3,100
+2025-03-06,Daily Deodorant,29,5,0.5,3,100
+2025-03-07,Daily Deodorant,29,5,0.5,3,100
+2025-03-08,Daily Deodorant,49,5,0.5,3,100
+2025-03-09,Daily Deodorant,46,5,0.5,3,100
+2025-03-10,Daily Deodorant,28,5,0.5,3,100
+2025-03-11,Daily Deodorant,40,5,0.5,3,100
+2025-03-12,Daily Deodorant,42,5,0.5,3,100
+2025-03-13,Daily Deodorant,37,5,0.5,3,100
+2025-03-14,Daily Deodorant,28,5,0.5,3,100
+2025-03-15,Daily Deodorant,49,5,0.5,3,100
+2025-03-16,Daily Deodorant,20,5,0.5,3,100
+2025-03-17,Daily Deodorant,27,5,0.5,3,100
+2025-03-18,Daily Deodorant,40,5,0.5,3,100
+2025-03-19,Daily Deodorant,28,5,0.5,3,100
+2025-03-20,Daily Deodorant,41,5,0.5,3,100
+2025-03-21,Daily Deodorant,38,5,0.5,3,100
+2025-03-22,Daily Deodorant,42,5,0.5,3,100
+2025-03-23,Daily Deodorant,27,5,0.5,3,100
+2025-03-24,Daily Deodorant,17,5,0.5,3,100
+2025-03-25,Daily Deodorant,29,5,0.5,3,100
+2025-03-26,Daily Deodorant,37,5,0.5,3,100
+2025-03-27,Daily Deodorant,28,5,0.5,3,100
+2025-03-28,Daily Deodorant,25,5,0.5,3,100
+2025-03-29,Daily Deodorant,37,5,0.5,3,100
+2025-03-30,Daily Deodorant,54,5,0.5,3,100
+2025-03-31,Daily Deodorant,27,5,0.5,3,100
+2025-04-01,Daily Deodorant,32,5,0.5,3,100
+2025-04-02,Daily Deodorant,40,5,0.5,3,100
+2025-04-03,Daily Deodorant,20,5,0.5,3,100
+2025-04-04,Daily Deodorant,17,5,0.5,3,100
+2025-04-05,Daily Deodorant,42,5,0.5,3,100
+2025-04-06,Daily Deodorant,37,5,0.5,3,100
+2025-04-07,Daily Deodorant,39,5,0.5,3,100
+2025-04-08,Daily Deodorant,37,5,0.5,3,100
+2025-04-09,Daily Deodorant,19,5,0.5,3,100
+2025-04-10,Daily Deodorant,42,5,0.5,3,100
+2025-04-11,Daily Deodorant,24,5,0.5,3,100
+2025-04-12,Daily Deodorant,27,5,0.5,3,100
+2025-04-13,Daily Deodorant,50,5,0.5,3,100
+2025-04-14,Daily Deodorant,31,5,0.5,3,100
+2025-04-15,Daily Deodorant,21,5,0.5,3,100
+2025-04-16,Daily Deodorant,36,5,0.5,3,100
+2025-04-17,Daily Deodorant,40,5,0.5,3,100
+2025-04-18,Daily Deodorant,44,5,0.5,3,100
+2025-04-19,Daily Deodorant,33,5,0.5,3,100
+2025-04-20,Daily Deodorant,50,5,0.5,3,100
+2025-04-21,Daily Deodorant,31,5,0.5,3,100
+2025-04-22,Daily Deodorant,27,5,0.5,3,100
+2025-04-23,Daily Deodorant,34,5,0.5,3,100
+2025-04-24,Daily Deodorant,39,5,0.5,3,100
+2025-04-25,Daily Deodorant,18,5,0.5,3,100
+2025-04-26,Daily Deodorant,31,5,0.5,3,100
+2025-04-27,Daily Deodorant,22,5,0.5,3,100
+2025-04-28,Daily Deodorant,23,5,0.5,3,100
+2025-04-29,Daily Deodorant,27,5,0.5,3,100
+2025-04-30,Daily Deodorant,32,5,0.5,3,100
+2025-05-01,Daily Deodorant,29,5,0.5,3,100
+2025-05-02,Daily Deodorant,18,5,0.5,3,100
+2025-05-03,Daily Deodorant,37,5,0.5,3,100
+2025-05-04,Daily Deodorant,46,5,0.5,3,100
+2025-05-05,Daily Deodorant,16,5,0.5,3,100
+2025-05-06,Daily Deodorant,29,5,0.5,3,100
+2025-05-07,Daily Deodorant,22,5,0.5,3,100
+2025-05-08,Daily Deodorant,22,5,0.5,3,100
+2025-05-09,Daily Deodorant,31,5,0.5,3,100
+2025-05-10,Daily Deodorant,33,5,0.5,3,100
+2025-05-11,Daily Deodorant,42,5,0.5,3,100
+2025-05-12,Daily Deodorant,24,5,0.5,3,100
+2025-05-13,Daily Deodorant,23,5,0.5,3,100
+2025-05-14,Daily Deodorant,19,5,0.5,3,100
+2025-05-15,Daily Deodorant,20,5,0.5,3,100
+2025-05-16,Daily Deodorant,34,5,0.5,3,100
+2025-05-17,Daily Deodorant,52,5,0.5,3,100
+2025-05-18,Daily Deodorant,20,5,0.5,3,100
+2025-05-19,Daily Deodorant,41,5,0.5,3,100
+2025-05-20,Daily Deodorant,38,5,0.5,3,100
+2025-05-21,Daily Deodorant,41,5,0.5,3,100
+2025-05-22,Daily Deodorant,27,5,0.5,3,100
+2025-05-23,Daily Deodorant,20,5,0.5,3,100
+2025-05-24,Daily Deodorant,24,5,0.5,3,100
+2025-05-25,Daily Deodorant,50,5,0.5,3,100
+2025-05-26,Daily Deodorant,15,5,0.5,3,100
+2025-05-27,Daily Deodorant,35,5,0.5,3,100
+2025-05-28,Daily Deodorant,36,5,0.5,3,100
+2025-05-29,Daily Deodorant,35,5,0.5,3,100
+2025-05-30,Daily Deodorant,20,5,0.5,3,100
+2025-05-31,Daily Deodorant,26,5,0.5,3,100
+2025-06-01,Daily Deodorant,48,5,0.5,3,100
+2025-06-02,Daily Deodorant,30,5,0.5,3,100
+2025-06-03,Daily Deodorant,18,5,0.5,3,100
+2025-06-04,Daily Deodorant,44,5,0.5,3,100
+2025-06-05,Daily Deodorant,25,5,0.5,3,100
+2025-06-06,Daily Deodorant,44,5,0.5,3,100
+2025-06-07,Daily Deodorant,57,5,0.5,3,100
+2025-06-08,Daily Deodorant,57,5,0.5,3,100
+2025-06-09,Daily Deodorant,38,5,0.5,3,100
+2025-06-10,Daily Deodorant,37,5,0.5,3,100
+2025-06-11,Daily Deodorant,23,5,0.5,3,100
+2025-06-12,Daily Deodorant,37,5,0.5,3,100
+2025-06-13,Daily Deodorant,17,5,0.5,3,100
+2025-06-14,Daily Deodorant,42,5,0.5,3,100
+2025-06-15,Daily Deodorant,28,5,0.5,3,100
+2025-06-16,Daily Deodorant,19,5,0.5,3,100
+2025-06-17,Daily Deodorant,18,5,0.5,3,100
+2025-06-18,Daily Deodorant,38,5,0.5,3,100
+2025-06-19,Daily Deodorant,20,5,0.5,3,100
+2025-06-20,Daily Deodorant,16,5,0.5,3,100
+2025-06-21,Daily Deodorant,44,5,0.5,3,100
+2025-06-22,Daily Deodorant,54,5,0.5,3,100
+2025-06-23,Daily Deodorant,25,5,0.5,3,100
+2025-06-24,Daily Deodorant,18,5,0.5,3,100
+2025-06-25,Daily Deodorant,29,5,0.5,3,100
+2025-06-26,Daily Deodorant,20,5,0.5,3,100
+2025-06-27,Daily Deodorant,36,5,0.5,3,100
+2025-06-28,Daily Deodorant,40,5,0.5,3,100
+2025-06-29,Daily Deodorant,57,5,0.5,3,100
+2025-06-30,Daily Deodorant,38,5,0.5,3,100
+2025-07-01,Daily Deodorant,20,5,0.5,3,100
+2025-07-02,Daily Deodorant,33,5,0.5,3,100
+2025-07-03,Daily Deodorant,44,5,0.5,3,100
+2025-07-04,Daily Deodorant,39,5,0.5,3,100
+2025-07-05,Daily Deodorant,20,5,0.5,3,100
+2025-07-06,Daily Deodorant,37,5,0.5,3,100
+2025-07-07,Daily Deodorant,25,5,0.5,3,100
+2025-07-08,Daily Deodorant,22,5,0.5,3,100
+2025-07-09,Daily Deodorant,40,5,0.5,3,100
+2025-07-10,Daily Deodorant,33,5,0.5,3,100
+2025-07-11,Daily Deodorant,27,5,0.5,3,100
+2025-07-12,Daily Deodorant,33,5,0.5,3,100
+2025-07-13,Daily Deodorant,24,5,0.5,3,100
+2025-07-14,Daily Deodorant,20,5,0.5,3,100
+2025-07-15,Daily Deodorant,40,5,0.5,3,100
+2025-07-16,Daily Deodorant,36,5,0.5,3,100
+2025-07-17,Daily Deodorant,18,5,0.5,3,100
+2025-07-18,Daily Deodorant,33,5,0.5,3,100
+2025-07-19,Daily Deodorant,44,5,0.5,3,100
+2025-07-20,Daily Deodorant,19,5,0.5,3,100
+2025-07-21,Daily Deodorant,34,5,0.5,3,100
+2025-07-22,Daily Deodorant,31,5,0.5,3,100
+2025-07-23,Daily Deodorant,26,5,0.5,3,100
+2025-07-24,Daily Deodorant,29,5,0.5,3,100
+2025-07-25,Daily Deodorant,15,5,0.5,3,100
+2025-07-26,Daily Deodorant,52,5,0.5,3,100
+2025-07-27,Daily Deodorant,36,5,0.5,3,100
+2025-07-28,Daily Deodorant,20,5,0.5,3,100
+2025-07-29,Daily Deodorant,19,5,0.5,3,100
+2025-07-30,Daily Deodorant,44,5,0.5,3,100
+2025-07-31,Daily Deodorant,25,5,0.5,3,100
+2025-08-01,Daily Deodorant,18,5,0.5,3,100
+2025-08-02,Daily Deodorant,35,5,0.5,3,100
+2025-08-03,Daily Deodorant,32,5,0.5,3,100
+2025-08-04,Daily Deodorant,17,5,0.5,3,100
+2025-08-05,Daily Deodorant,15,5,0.5,3,100
+2025-08-06,Daily Deodorant,20,5,0.5,3,100
+2025-08-07,Daily Deodorant,32,5,0.5,3,100
+2025-08-08,Daily Deodorant,38,5,0.5,3,100
+2025-08-09,Daily Deodorant,31,5,0.5,3,100
+2025-08-10,Daily Deodorant,24,5,0.5,3,100
+2025-08-11,Daily Deodorant,37,5,0.5,3,100
+2025-08-12,Daily Deodorant,24,5,0.5,3,100
+2025-08-13,Daily Deodorant,26,5,0.5,3,100
+2025-08-14,Daily Deodorant,16,5,0.5,3,100
+2025-08-15,Daily Deodorant,27,5,0.5,3,100
+2025-08-16,Daily Deodorant,28,5,0.5,3,100
+2025-08-17,Daily Deodorant,20,5,0.5,3,100
+2025-08-18,Daily Deodorant,34,5,0.5,3,100
+2025-08-19,Daily Deodorant,15,5,0.5,3,100
+2025-08-20,Daily Deodorant,19,5,0.5,3,100
+2025-08-21,Daily Deodorant,23,5,0.5,3,100
+2025-08-22,Daily Deodorant,31,5,0.5,3,100
+2025-08-23,Daily Deodorant,29,5,0.5,3,100
+2025-08-24,Daily Deodorant,32,5,0.5,3,100
+2025-08-25,Daily Deodorant,29,5,0.5,3,100
+2025-08-26,Daily Deodorant,38,5,0.5,3,100
+2025-08-27,Daily Deodorant,20,5,0.5,3,100
+2025-08-28,Daily Deodorant,37,5,0.5,3,100
+2025-08-29,Daily Deodorant,17,5,0.5,3,100
+2025-08-30,Daily Deodorant,57,5,0.5,3,100
+2025-08-31,Daily Deodorant,40,5,0.5,3,100
+2025-09-01,Daily Deodorant,19,5,0.5,3,100
+2025-09-02,Daily Deodorant,44,5,0.5,3,100
+2025-09-03,Daily Deodorant,42,5,0.5,3,100
+2025-09-04,Daily Deodorant,26,5,0.5,3,100
+2025-09-05,Daily Deodorant,32,5,0.5,3,100
+2025-09-06,Daily Deodorant,36,5,0.5,3,100
+2025-09-07,Daily Deodorant,45,5,0.5,3,100
+2025-09-08,Daily Deodorant,38,5,0.5,3,100
+2025-09-09,Daily Deodorant,25,5,0.5,3,100
+2025-09-10,Daily Deodorant,23,5,0.5,3,100
+2025-09-11,Daily Deodorant,16,5,0.5,3,100
+2025-09-12,Daily Deodorant,26,5,0.5,3,100
+2025-09-13,Daily Deodorant,22,5,0.5,3,100
+2025-09-14,Daily Deodorant,22,5,0.5,3,100
+2025-09-15,Daily Deodorant,15,5,0.5,3,100
+2025-09-16,Daily Deodorant,22,5,0.5,3,100
+2025-09-17,Daily Deodorant,36,5,0.5,3,100
+2025-09-18,Daily Deodorant,42,5,0.5,3,100
+2025-09-19,Daily Deodorant,43,5,0.5,3,100
+2025-09-20,Daily Deodorant,28,5,0.5,3,100
+2025-09-21,Daily Deodorant,32,5,0.5,3,100
+2025-09-22,Daily Deodorant,23,5,0.5,3,100
+2025-09-23,Daily Deodorant,19,5,0.5,3,100
+2025-09-24,Daily Deodorant,28,5,0.5,3,100
+2025-09-25,Daily Deodorant,42,5,0.5,3,100
+2025-09-26,Daily Deodorant,44,5,0.5,3,100
+2025-09-27,Daily Deodorant,22,5,0.5,3,100
+2025-09-28,Daily Deodorant,45,5,0.5,3,100
+2025-09-29,Daily Deodorant,19,5,0.5,3,100
+2025-09-30,Daily Deodorant,19,5,0.5,3,100
+2025-10-01,Daily Deodorant,33,5,0.5,3,100
+2025-10-02,Daily Deodorant,41,5,0.5,3,100
+2025-10-03,Daily Deodorant,28,5,0.5,3,100
+2025-10-04,Daily Deodorant,52,5,0.5,3,100
+2025-10-05,Daily Deodorant,57,5,0.5,3,100
+2025-10-06,Daily Deodorant,18,5,0.5,3,100
+2025-10-07,Daily Deodorant,39,5,0.5,3,100
+2025-10-08,Daily Deodorant,27,5,0.5,3,100
+2025-10-09,Daily Deodorant,24,5,0.5,3,100
+2025-10-10,Daily Deodorant,39,5,0.5,3,100
+2025-10-11,Daily Deodorant,41,5,0.5,3,100
+2025-10-12,Daily Deodorant,28,5,0.5,3,100
+2025-10-13,Daily Deodorant,22,5,0.5,3,100
+2025-10-14,Daily Deodorant,21,5,0.5,3,100
+2025-10-15,Daily Deodorant,22,5,0.5,3,100
+2025-10-16,Daily Deodorant,28,5,0.5,3,100
+2025-10-17,Daily Deodorant,33,5,0.5,3,100
+2025-10-18,Daily Deodorant,55,5,0.5,3,100
+2025-10-19,Daily Deodorant,26,5,0.5,3,100
+2025-10-20,Daily Deodorant,15,5,0.5,3,100
+2025-10-21,Daily Deodorant,37,5,0.5,3,100
+2025-10-22,Daily Deodorant,29,5,0.5,3,100
+2025-10-23,Daily Deodorant,15,5,0.5,3,100
+2025-10-24,Daily Deodorant,39,5,0.5,3,100
+2025-10-25,Daily Deodorant,40,5,0.5,3,100
+2025-10-26,Daily Deodorant,19,5,0.5,3,100
+2025-10-27,Daily Deodorant,29,5,0.5,3,100
+2025-10-28,Daily Deodorant,37,5,0.5,3,100
+2025-10-29,Daily Deodorant,16,5,0.5,3,100
+2025-10-30,Daily Deodorant,28,5,0.5,3,100
+2025-10-31,Daily Deodorant,35,5,0.5,3,100
+2025-11-01,Daily Deodorant,28,5,0.5,3,100
+2025-11-02,Daily Deodorant,28,5,0.5,3,100
+2025-11-03,Daily Deodorant,33,5,0.5,3,100
+2025-11-04,Daily Deodorant,21,5,0.5,3,100
+2025-11-05,Daily Deodorant,33,5,0.5,3,100
+2025-11-06,Daily Deodorant,20,5,0.5,3,100
+2025-11-07,Daily Deodorant,20,5,0.5,3,100
+2025-11-08,Daily Deodorant,22,5,0.5,3,100
+2025-11-09,Daily Deodorant,27,5,0.5,3,100
+2025-11-10,Daily Deodorant,33,5,0.5,3,100
+2025-11-11,Daily Deodorant,22,5,0.5,3,100
+2025-11-12,Daily Deodorant,24,5,0.5,3,100
+2025-11-13,Daily Deodorant,34,5,0.5,3,100
+2025-11-14,Daily Deodorant,29,5,0.5,3,100
+2025-11-15,Daily Deodorant,37,5,0.5,3,100
+2025-11-16,Daily Deodorant,55,5,0.5,3,100
+2025-11-17,Daily Deodorant,15,5,0.5,3,100
+2025-11-18,Daily Deodorant,34,5,0.5,3,100
+2025-11-19,Daily Deodorant,44,5,0.5,3,100
+2025-11-20,Daily Deodorant,21,5,0.5,3,100
+2025-11-21,Daily Deodorant,41,5,0.5,3,100
+2025-11-22,Daily Deodorant,23,5,0.5,3,100
+2025-11-23,Daily Deodorant,55,5,0.5,3,100
+2025-11-24,Daily Deodorant,20,5,0.5,3,100
+2025-11-25,Daily Deodorant,39,5,0.5,3,100
+2025-11-26,Daily Deodorant,15,5,0.5,3,100
+2025-11-27,Daily Deodorant,43,5,0.5,3,100
+2025-11-28,Daily Deodorant,19,5,0.5,3,100
+2025-11-29,Daily Deodorant,53,5,0.5,3,100
+2025-11-30,Daily Deodorant,48,5,0.5,3,100
+2025-12-01,Daily Deodorant,15,5,0.5,3,100
+2025-12-02,Daily Deodorant,44,5,0.5,3,100
+2025-12-03,Daily Deodorant,18,5,0.5,3,100
+2025-12-04,Daily Deodorant,36,5,0.5,3,100
+2025-12-05,Daily Deodorant,16,5,0.5,3,100
+2025-12-06,Daily Deodorant,31,5,0.5,3,100
+2025-12-07,Daily Deodorant,24,5,0.5,3,100
+2025-12-08,Daily Deodorant,41,5,0.5,3,100
+2025-12-09,Daily Deodorant,24,5,0.5,3,100
+2025-12-10,Daily Deodorant,15,5,0.5,3,100
+2025-12-11,Daily Deodorant,36,5,0.5,3,100
+2025-12-12,Daily Deodorant,20,5,0.5,3,100
+2025-12-13,Daily Deodorant,35,5,0.5,3,100
+2025-12-14,Daily Deodorant,37,5,0.5,3,100
+2025-12-15,Daily Deodorant,18,5,0.5,3,100
+2025-12-16,Daily Deodorant,27,5,0.5,3,100
+2025-12-17,Daily Deodorant,38,5,0.5,3,100
+2025-12-18,Daily Deodorant,34,5,0.5,3,100
+2025-12-19,Daily Deodorant,38,5,0.5,3,100
+2025-12-20,Daily Deodorant,37,5,0.5,3,100
+2025-12-21,Daily Deodorant,55,5,0.5,3,100
+2025-12-22,Daily Deodorant,22,5,0.5,3,100
+2025-12-23,Daily Deodorant,19,5,0.5,3,100
+2025-12-24,Daily Deodorant,43,5,0.5,3,100
+2025-12-25,Daily Deodorant,29,5,0.5,3,100
+2025-12-26,Daily Deodorant,18,5,0.5,3,100
+2025-12-27,Daily Deodorant,33,5,0.5,3,100
+2025-12-28,Daily Deodorant,35,5,0.5,3,100
+2025-12-29,Daily Deodorant,16,5,0.5,3,100
+2025-12-30,Daily Deodorant,41,5,0.5,3,100
+2025-12-31,Daily Deodorant,33,5,0.5,3,100
+2025-01-01,Skin Care Cream,33,30,4.0,10,100
+2025-01-02,Skin Care Cream,18,30,4.0,10,100
+2025-01-03,Skin Care Cream,18,30,4.0,10,100
+2025-01-04,Skin Care Cream,52,30,4.0,10,100
+2025-01-05,Skin Care Cream,32,30,4.0,10,100
+2025-01-06,Skin Care Cream,41,30,4.0,10,100
+2025-01-07,Skin Care Cream,19,30,4.0,10,100
+2025-01-08,Skin Care Cream,34,30,4.0,10,100
+2025-01-09,Skin Care Cream,25,30,4.0,10,100
+2025-01-10,Skin Care Cream,44,30,4.0,10,100
+2025-01-11,Skin Care Cream,31,30,4.0,10,100
+2025-01-12,Skin Care Cream,28,30,4.0,10,100
+2025-01-13,Skin Care Cream,20,30,4.0,10,100
+2025-01-14,Skin Care Cream,20,30,4.0,10,100
+2025-01-15,Skin Care Cream,22,30,4.0,10,100
+2025-01-16,Skin Care Cream,37,30,4.0,10,100
+2025-01-17,Skin Care Cream,29,30,4.0,10,100
+2025-01-18,Skin Care Cream,52,30,4.0,10,100
+2025-01-19,Skin Care Cream,36,30,4.0,10,100
+2025-01-20,Skin Care Cream,25,30,4.0,10,100
+2025-01-21,Skin Care Cream,26,30,4.0,10,100
+2025-01-22,Skin Care Cream,40,30,4.0,10,100
+2025-01-23,Skin Care Cream,27,30,4.0,10,100
+2025-01-24,Skin Care Cream,22,30,4.0,10,100
+2025-01-25,Skin Care Cream,57,30,4.0,10,100
+2025-01-26,Skin Care Cream,41,30,4.0,10,100
+2025-01-27,Skin Care Cream,39,30,4.0,10,100
+2025-01-28,Skin Care Cream,15,30,4.0,10,100
+2025-01-29,Skin Care Cream,29,30,4.0,10,100
+2025-01-30,Skin Care Cream,22,30,4.0,10,100
+2025-01-31,Skin Care Cream,42,30,4.0,10,100
+2025-02-01,Skin Care Cream,32,30,4.0,10,100
+2025-02-02,Skin Care Cream,33,30,4.0,10,100
+2025-02-03,Skin Care Cream,26,30,4.0,10,100
+2025-02-04,Skin Care Cream,18,30,4.0,10,100
+2025-02-05,Skin Care Cream,30,30,4.0,10,100
+2025-02-06,Skin Care Cream,18,30,4.0,10,100
+2025-02-07,Skin Care Cream,19,30,4.0,10,100
+2025-02-08,Skin Care Cream,49,30,4.0,10,100
+2025-02-09,Skin Care Cream,24,30,4.0,10,100
+2025-02-10,Skin Care Cream,22,30,4.0,10,100
+2025-02-11,Skin Care Cream,24,30,4.0,10,100
+2025-02-12,Skin Care Cream,31,30,4.0,10,100
+2025-02-13,Skin Care Cream,42,30,4.0,10,100
+2025-02-14,Skin Care Cream,40,30,4.0,10,100
+2025-02-15,Skin Care Cream,29,30,4.0,10,100
+2025-02-16,Skin Care Cream,46,30,4.0,10,100
+2025-02-17,Skin Care Cream,33,30,4.0,10,100
+2025-02-18,Skin Care Cream,43,30,4.0,10,100
+2025-02-19,Skin Care Cream,28,30,4.0,10,100
+2025-02-20,Skin Care Cream,22,30,4.0,10,100
+2025-02-21,Skin Care Cream,23,30,4.0,10,100
+2025-02-22,Skin Care Cream,46,30,4.0,10,100
+2025-02-23,Skin Care Cream,32,30,4.0,10,100
+2025-02-24,Skin Care Cream,37,30,4.0,10,100
+2025-02-25,Skin Care Cream,15,30,4.0,10,100
+2025-02-26,Skin Care Cream,28,30,4.0,10,100
+2025-02-27,Skin Care Cream,19,30,4.0,10,100
+2025-02-28,Skin Care Cream,35,30,4.0,10,100
+2025-03-01,Skin Care Cream,52,30,4.0,10,100
+2025-03-02,Skin Care Cream,36,30,4.0,10,100
+2025-03-03,Skin Care Cream,18,30,4.0,10,100
+2025-03-04,Skin Care Cream,36,30,4.0,10,100
+2025-03-05,Skin Care Cream,37,30,4.0,10,100
+2025-03-06,Skin Care Cream,39,30,4.0,10,100
+2025-03-07,Skin Care Cream,15,30,4.0,10,100
+2025-03-08,Skin Care Cream,46,30,4.0,10,100
+2025-03-09,Skin Care Cream,48,30,4.0,10,100
+2025-03-10,Skin Care Cream,33,30,4.0,10,100
+2025-03-11,Skin Care Cream,22,30,4.0,10,100
+2025-03-12,Skin Care Cream,29,30,4.0,10,100
+2025-03-13,Skin Care Cream,35,30,4.0,10,100
+2025-03-14,Skin Care Cream,29,30,4.0,10,100
+2025-03-15,Skin Care Cream,29,30,4.0,10,100
+2025-03-16,Skin Care Cream,45,30,4.0,10,100
+2025-03-17,Skin Care Cream,23,30,4.0,10,100
+2025-03-18,Skin Care Cream,24,30,4.0,10,100
+2025-03-19,Skin Care Cream,34,30,4.0,10,100
+2025-03-20,Skin Care Cream,39,30,4.0,10,100
+2025-03-21,Skin Care Cream,35,30,4.0,10,100
+2025-03-22,Skin Care Cream,52,30,4.0,10,100
+2025-03-23,Skin Care Cream,29,30,4.0,10,100
+2025-03-24,Skin Care Cream,17,30,4.0,10,100
+2025-03-25,Skin Care Cream,34,30,4.0,10,100
+2025-03-26,Skin Care Cream,39,30,4.0,10,100
+2025-03-27,Skin Care Cream,40,30,4.0,10,100
+2025-03-28,Skin Care Cream,25,30,4.0,10,100
+2025-03-29,Skin Care Cream,26,30,4.0,10,100
+2025-03-30,Skin Care Cream,20,30,4.0,10,100
+2025-03-31,Skin Care Cream,21,30,4.0,10,100
+2025-04-01,Skin Care Cream,32,30,4.0,10,100
+2025-04-02,Skin Care Cream,41,30,4.0,10,100
+2025-04-03,Skin Care Cream,16,30,4.0,10,100
+2025-04-04,Skin Care Cream,41,30,4.0,10,100
+2025-04-05,Skin Care Cream,40,30,4.0,10,100
+2025-04-06,Skin Care Cream,32,30,4.0,10,100
+2025-04-07,Skin Care Cream,41,30,4.0,10,100
+2025-04-08,Skin Care Cream,26,30,4.0,10,100
+2025-04-09,Skin Care Cream,41,30,4.0,10,100
+2025-04-10,Skin Care Cream,33,30,4.0,10,100
+2025-04-11,Skin Care Cream,36,30,4.0,10,100
+2025-04-12,Skin Care Cream,49,30,4.0,10,100
+2025-04-13,Skin Care Cream,50,30,4.0,10,100
+2025-04-14,Skin Care Cream,21,30,4.0,10,100
+2025-04-15,Skin Care Cream,34,30,4.0,10,100
+2025-04-16,Skin Care Cream,20,30,4.0,10,100
+2025-04-17,Skin Care Cream,35,30,4.0,10,100
+2025-04-18,Skin Care Cream,38,30,4.0,10,100
+2025-04-19,Skin Care Cream,19,30,4.0,10,100
+2025-04-20,Skin Care Cream,40,30,4.0,10,100
+2025-04-21,Skin Care Cream,43,30,4.0,10,100
+2025-04-22,Skin Care Cream,25,30,4.0,10,100
+2025-04-23,Skin Care Cream,36,30,4.0,10,100
+2025-04-24,Skin Care Cream,40,30,4.0,10,100
+2025-04-25,Skin Care Cream,42,30,4.0,10,100
+2025-04-26,Skin Care Cream,41,30,4.0,10,100
+2025-04-27,Skin Care Cream,45,30,4.0,10,100
+2025-04-28,Skin Care Cream,31,30,4.0,10,100
+2025-04-29,Skin Care Cream,21,30,4.0,10,100
+2025-04-30,Skin Care Cream,31,30,4.0,10,100
+2025-05-01,Skin Care Cream,34,30,4.0,10,100
+2025-05-02,Skin Care Cream,23,30,4.0,10,100
+2025-05-03,Skin Care Cream,40,30,4.0,10,100
+2025-05-04,Skin Care Cream,44,30,4.0,10,100
+2025-05-05,Skin Care Cream,36,30,4.0,10,100
+2025-05-06,Skin Care Cream,36,30,4.0,10,100
+2025-05-07,Skin Care Cream,42,30,4.0,10,100
+2025-05-08,Skin Care Cream,43,30,4.0,10,100
+2025-05-09,Skin Care Cream,22,30,4.0,10,100
+2025-05-10,Skin Care Cream,40,30,4.0,10,100
+2025-05-11,Skin Care Cream,27,30,4.0,10,100
+2025-05-12,Skin Care Cream,15,30,4.0,10,100
+2025-05-13,Skin Care Cream,27,30,4.0,10,100
+2025-05-14,Skin Care Cream,44,30,4.0,10,100
+2025-05-15,Skin Care Cream,37,30,4.0,10,100
+2025-05-16,Skin Care Cream,33,30,4.0,10,100
+2025-05-17,Skin Care Cream,53,30,4.0,10,100
+2025-05-18,Skin Care Cream,49,30,4.0,10,100
+2025-05-19,Skin Care Cream,33,30,4.0,10,100
+2025-05-20,Skin Care Cream,44,30,4.0,10,100
+2025-05-21,Skin Care Cream,44,30,4.0,10,100
+2025-05-22,Skin Care Cream,43,30,4.0,10,100
+2025-05-23,Skin Care Cream,31,30,4.0,10,100
+2025-05-24,Skin Care Cream,35,30,4.0,10,100
+2025-05-25,Skin Care Cream,55,30,4.0,10,100
+2025-05-26,Skin Care Cream,44,30,4.0,10,100
+2025-05-27,Skin Care Cream,30,30,4.0,10,100
+2025-05-28,Skin Care Cream,22,30,4.0,10,100
+2025-05-29,Skin Care Cream,33,30,4.0,10,100
+2025-05-30,Skin Care Cream,32,30,4.0,10,100
+2025-05-31,Skin Care Cream,19,30,4.0,10,100
+2025-06-01,Skin Care Cream,36,30,4.0,10,100
+2025-06-02,Skin Care Cream,33,30,4.0,10,100
+2025-06-03,Skin Care Cream,29,30,4.0,10,100
+2025-06-04,Skin Care Cream,32,30,4.0,10,100
+2025-06-05,Skin Care Cream,16,30,4.0,10,100
+2025-06-06,Skin Care Cream,36,30,4.0,10,100
+2025-06-07,Skin Care Cream,54,30,4.0,10,100
+2025-06-08,Skin Care Cream,40,30,4.0,10,100
+2025-06-09,Skin Care Cream,32,30,4.0,10,100
+2025-06-10,Skin Care Cream,44,30,4.0,10,100
+2025-06-11,Skin Care Cream,20,30,4.0,10,100
+2025-06-12,Skin Care Cream,33,30,4.0,10,100
+2025-06-13,Skin Care Cream,18,30,4.0,10,100
+2025-06-14,Skin Care Cream,19,30,4.0,10,100
+2025-06-15,Skin Care Cream,28,30,4.0,10,100
+2025-06-16,Skin Care Cream,43,30,4.0,10,100
+2025-06-17,Skin Care Cream,37,30,4.0,10,100
+2025-06-18,Skin Care Cream,21,30,4.0,10,100
+2025-06-19,Skin Care Cream,17,30,4.0,10,100
+2025-06-20,Skin Care Cream,24,30,4.0,10,100
+2025-06-21,Skin Care Cream,31,30,4.0,10,100
+2025-06-22,Skin Care Cream,42,30,4.0,10,100
+2025-06-23,Skin Care Cream,28,30,4.0,10,100
+2025-06-24,Skin Care Cream,16,30,4.0,10,100
+2025-06-25,Skin Care Cream,42,30,4.0,10,100
+2025-06-26,Skin Care Cream,15,30,4.0,10,100
+2025-06-27,Skin Care Cream,37,30,4.0,10,100
+2025-06-28,Skin Care Cream,48,30,4.0,10,100
+2025-06-29,Skin Care Cream,54,30,4.0,10,100
+2025-06-30,Skin Care Cream,32,30,4.0,10,100
+2025-07-01,Skin Care Cream,21,30,4.0,10,100
+2025-07-02,Skin Care Cream,43,30,4.0,10,100
+2025-07-03,Skin Care Cream,22,30,4.0,10,100
+2025-07-04,Skin Care Cream,15,30,4.0,10,100
+2025-07-05,Skin Care Cream,50,30,4.0,10,100
+2025-07-06,Skin Care Cream,48,30,4.0,10,100
+2025-07-07,Skin Care Cream,17,30,4.0,10,100
+2025-07-08,Skin Care Cream,38,30,4.0,10,100
+2025-07-09,Skin Care Cream,37,30,4.0,10,100
+2025-07-10,Skin Care Cream,41,30,4.0,10,100
+2025-07-11,Skin Care Cream,43,30,4.0,10,100
+2025-07-12,Skin Care Cream,28,30,4.0,10,100
+2025-07-13,Skin Care Cream,46,30,4.0,10,100
+2025-07-14,Skin Care Cream,39,30,4.0,10,100
+2025-07-15,Skin Care Cream,29,30,4.0,10,100
+2025-07-16,Skin Care Cream,19,30,4.0,10,100
+2025-07-17,Skin Care Cream,17,30,4.0,10,100
+2025-07-18,Skin Care Cream,33,30,4.0,10,100
+2025-07-19,Skin Care Cream,19,30,4.0,10,100
+2025-07-20,Skin Care Cream,54,30,4.0,10,100
+2025-07-21,Skin Care Cream,29,30,4.0,10,100
+2025-07-22,Skin Care Cream,22,30,4.0,10,100
+2025-07-23,Skin Care Cream,16,30,4.0,10,100
+2025-07-24,Skin Care Cream,17,30,4.0,10,100
+2025-07-25,Skin Care Cream,38,30,4.0,10,100
+2025-07-26,Skin Care Cream,36,30,4.0,10,100
+2025-07-27,Skin Care Cream,49,30,4.0,10,100
+2025-07-28,Skin Care Cream,28,30,4.0,10,100
+2025-07-29,Skin Care Cream,25,30,4.0,10,100
+2025-07-30,Skin Care Cream,30,30,4.0,10,100
+2025-07-31,Skin Care Cream,18,30,4.0,10,100
+2025-08-01,Skin Care Cream,34,30,4.0,10,100
+2025-08-02,Skin Care Cream,24,30,4.0,10,100
+2025-08-03,Skin Care Cream,46,30,4.0,10,100
+2025-08-04,Skin Care Cream,35,30,4.0,10,100
+2025-08-05,Skin Care Cream,28,30,4.0,10,100
+2025-08-06,Skin Care Cream,37,30,4.0,10,100
+2025-08-07,Skin Care Cream,30,30,4.0,10,100
+2025-08-08,Skin Care Cream,32,30,4.0,10,100
+2025-08-09,Skin Care Cream,27,30,4.0,10,100
+2025-08-10,Skin Care Cream,31,30,4.0,10,100
+2025-08-11,Skin Care Cream,21,30,4.0,10,100
+2025-08-12,Skin Care Cream,15,30,4.0,10,100
+2025-08-13,Skin Care Cream,37,30,4.0,10,100
+2025-08-14,Skin Care Cream,35,30,4.0,10,100
+2025-08-15,Skin Care Cream,33,30,4.0,10,100
+2025-08-16,Skin Care Cream,39,30,4.0,10,100
+2025-08-17,Skin Care Cream,55,30,4.0,10,100
+2025-08-18,Skin Care Cream,33,30,4.0,10,100
+2025-08-19,Skin Care Cream,18,30,4.0,10,100
+2025-08-20,Skin Care Cream,43,30,4.0,10,100
+2025-08-21,Skin Care Cream,42,30,4.0,10,100
+2025-08-22,Skin Care Cream,32,30,4.0,10,100
+2025-08-23,Skin Care Cream,20,30,4.0,10,100
+2025-08-24,Skin Care Cream,19,30,4.0,10,100
+2025-08-25,Skin Care Cream,29,30,4.0,10,100
+2025-08-26,Skin Care Cream,19,30,4.0,10,100
+2025-08-27,Skin Care Cream,34,30,4.0,10,100
+2025-08-28,Skin Care Cream,25,30,4.0,10,100
+2025-08-29,Skin Care Cream,24,30,4.0,10,100
+2025-08-30,Skin Care Cream,20,30,4.0,10,100
+2025-08-31,Skin Care Cream,22,30,4.0,10,100
+2025-09-01,Skin Care Cream,37,30,4.0,10,100
+2025-09-02,Skin Care Cream,37,30,4.0,10,100
+2025-09-03,Skin Care Cream,26,30,4.0,10,100
+2025-09-04,Skin Care Cream,34,30,4.0,10,100
+2025-09-05,Skin Care Cream,19,30,4.0,10,100
+2025-09-06,Skin Care Cream,24,30,4.0,10,100
+2025-09-07,Skin Care Cream,26,30,4.0,10,100
+2025-09-08,Skin Care Cream,44,30,4.0,10,100
+2025-09-09,Skin Care Cream,23,30,4.0,10,100
+2025-09-10,Skin Care Cream,16,30,4.0,10,100
+2025-09-11,Skin Care Cream,35,30,4.0,10,100
+2025-09-12,Skin Care Cream,26,30,4.0,10,100
+2025-09-13,Skin Care Cream,22,30,4.0,10,100
+2025-09-14,Skin Care Cream,44,30,4.0,10,100
+2025-09-15,Skin Care Cream,40,30,4.0,10,100
+2025-09-16,Skin Care Cream,36,30,4.0,10,100
+2025-09-17,Skin Care Cream,26,30,4.0,10,100
+2025-09-18,Skin Care Cream,38,30,4.0,10,100
+2025-09-19,Skin Care Cream,31,30,4.0,10,100
+2025-09-20,Skin Care Cream,31,30,4.0,10,100
+2025-09-21,Skin Care Cream,57,30,4.0,10,100
+2025-09-22,Skin Care Cream,38,30,4.0,10,100
+2025-09-23,Skin Care Cream,41,30,4.0,10,100
+2025-09-24,Skin Care Cream,28,30,4.0,10,100
+2025-09-25,Skin Care Cream,37,30,4.0,10,100
+2025-09-26,Skin Care Cream,31,30,4.0,10,100
+2025-09-27,Skin Care Cream,41,30,4.0,10,100
+2025-09-28,Skin Care Cream,42,30,4.0,10,100
+2025-09-29,Skin Care Cream,31,30,4.0,10,100
+2025-09-30,Skin Care Cream,28,30,4.0,10,100
+2025-10-01,Skin Care Cream,23,30,4.0,10,100
+2025-10-02,Skin Care Cream,22,30,4.0,10,100
+2025-10-03,Skin Care Cream,16,30,4.0,10,100
+2025-10-04,Skin Care Cream,35,30,4.0,10,100
+2025-10-05,Skin Care Cream,50,30,4.0,10,100
+2025-10-06,Skin Care Cream,21,30,4.0,10,100
+2025-10-07,Skin Care Cream,23,30,4.0,10,100
+2025-10-08,Skin Care Cream,36,30,4.0,10,100
+2025-10-09,Skin Care Cream,36,30,4.0,10,100
+2025-10-10,Skin Care Cream,25,30,4.0,10,100
+2025-10-11,Skin Care Cream,36,30,4.0,10,100
+2025-10-12,Skin Care Cream,23,30,4.0,10,100
+2025-10-13,Skin Care Cream,40,30,4.0,10,100
+2025-10-14,Skin Care Cream,40,30,4.0,10,100
+2025-10-15,Skin Care Cream,43,30,4.0,10,100
+2025-10-16,Skin Care Cream,27,30,4.0,10,100
+2025-10-17,Skin Care Cream,16,30,4.0,10,100
+2025-10-18,Skin Care Cream,48,30,4.0,10,100
+2025-10-19,Skin Care Cream,24,30,4.0,10,100
+2025-10-20,Skin Care Cream,25,30,4.0,10,100
+2025-10-21,Skin Care Cream,20,30,4.0,10,100
+2025-10-22,Skin Care Cream,32,30,4.0,10,100
+2025-10-23,Skin Care Cream,35,30,4.0,10,100
+2025-10-24,Skin Care Cream,24,30,4.0,10,100
+2025-10-25,Skin Care Cream,23,30,4.0,10,100
+2025-10-26,Skin Care Cream,29,30,4.0,10,100
+2025-10-27,Skin Care Cream,20,30,4.0,10,100
+2025-10-28,Skin Care Cream,16,30,4.0,10,100
+2025-10-29,Skin Care Cream,31,30,4.0,10,100
+2025-10-30,Skin Care Cream,19,30,4.0,10,100
+2025-10-31,Skin Care Cream,39,30,4.0,10,100
+2025-11-01,Skin Care Cream,26,30,4.0,10,100
+2025-11-02,Skin Care Cream,52,30,4.0,10,100
+2025-11-03,Skin Care Cream,26,30,4.0,10,100
+2025-11-04,Skin Care Cream,37,30,4.0,10,100
+2025-11-05,Skin Care Cream,35,30,4.0,10,100
+2025-11-06,Skin Care Cream,24,30,4.0,10,100
+2025-11-07,Skin Care Cream,36,30,4.0,10,100
+2025-11-08,Skin Care Cream,45,30,4.0,10,100
+2025-11-09,Skin Care Cream,53,30,4.0,10,100
+2025-11-10,Skin Care Cream,39,30,4.0,10,100
+2025-11-11,Skin Care Cream,20,30,4.0,10,100
+2025-11-12,Skin Care Cream,41,30,4.0,10,100
+2025-11-13,Skin Care Cream,22,30,4.0,10,100
+2025-11-14,Skin Care Cream,16,30,4.0,10,100
+2025-11-15,Skin Care Cream,33,30,4.0,10,100
+2025-11-16,Skin Care Cream,35,30,4.0,10,100
+2025-11-17,Skin Care Cream,39,30,4.0,10,100
+2025-11-18,Skin Care Cream,35,30,4.0,10,100
+2025-11-19,Skin Care Cream,21,30,4.0,10,100
+2025-11-20,Skin Care Cream,24,30,4.0,10,100
+2025-11-21,Skin Care Cream,27,30,4.0,10,100
+2025-11-22,Skin Care Cream,40,30,4.0,10,100
+2025-11-23,Skin Care Cream,52,30,4.0,10,100
+2025-11-24,Skin Care Cream,35,30,4.0,10,100
+2025-11-25,Skin Care Cream,42,30,4.0,10,100
+2025-11-26,Skin Care Cream,44,30,4.0,10,100
+2025-11-27,Skin Care Cream,40,30,4.0,10,100
+2025-11-28,Skin Care Cream,28,30,4.0,10,100
+2025-11-29,Skin Care Cream,20,30,4.0,10,100
+2025-11-30,Skin Care Cream,54,30,4.0,10,100
+2025-12-01,Skin Care Cream,36,30,4.0,10,100
+2025-12-02,Skin Care Cream,25,30,4.0,10,100
+2025-12-03,Skin Care Cream,15,30,4.0,10,100
+2025-12-04,Skin Care Cream,33,30,4.0,10,100
+2025-12-05,Skin Care Cream,35,30,4.0,10,100
+2025-12-06,Skin Care Cream,23,30,4.0,10,100
+2025-12-07,Skin Care Cream,42,30,4.0,10,100
+2025-12-08,Skin Care Cream,40,30,4.0,10,100
+2025-12-09,Skin Care Cream,43,30,4.0,10,100
+2025-12-10,Skin Care Cream,35,30,4.0,10,100
+2025-12-11,Skin Care Cream,25,30,4.0,10,100
+2025-12-12,Skin Care Cream,22,30,4.0,10,100
+2025-12-13,Skin Care Cream,32,30,4.0,10,100
+2025-12-14,Skin Care Cream,23,30,4.0,10,100
+2025-12-15,Skin Care Cream,31,30,4.0,10,100
+2025-12-16,Skin Care Cream,41,30,4.0,10,100
+2025-12-17,Skin Care Cream,21,30,4.0,10,100
+2025-12-18,Skin Care Cream,22,30,4.0,10,100
+2025-12-19,Skin Care Cream,17,30,4.0,10,100
+2025-12-20,Skin Care Cream,46,30,4.0,10,100
+2025-12-21,Skin Care Cream,20,30,4.0,10,100
+2025-12-22,Skin Care Cream,37,30,4.0,10,100
+2025-12-23,Skin Care Cream,29,30,4.0,10,100
+2025-12-24,Skin Care Cream,38,30,4.0,10,100
+2025-12-25,Skin Care Cream,36,30,4.0,10,100
+2025-12-26,Skin Care Cream,36,30,4.0,10,100
+2025-12-27,Skin Care Cream,24,30,4.0,10,100
+2025-12-28,Skin Care Cream,49,30,4.0,10,100
+2025-12-29,Skin Care Cream,15,30,4.0,10,100
+2025-12-30,Skin Care Cream,40,30,4.0,10,100
+2025-12-31,Skin Care Cream,18,30,4.0,10,100
